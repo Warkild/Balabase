@@ -1,0 +1,56 @@
+id,réf,nom,epoque,couleur_dominante,couleurs_autres,type,quantite,lieu
+0,ACC/0,sac noir en tissu type baluchon,,noir,,sac,1,BSAC1
+1,ACC/1,sac à main noir en peau de crocodile très abimé,,noir,,sac,1,BSAC1
+2,ACC/2,sac à main noir en cuir CL,,noir,,sac,1,BSAC1
+3,ACC/3,sac à main bleu marine type porte monnaie,,noir,,sac,1,BSAC1
+4,ACC/4,sac à main noir avec attache en or ,,noir,or,sac,1,BSAC1
+5,ACC/5,sac à main noir fins et grand,,noir,or,sac,1,BSAC1
+6,ACC/6,sac à main rouge en carton ,,rouge,,sac,1,BSAC1
+7,ACC/7,cravate verte à motif,,vert,blanc,cravate,1,BAC1
+8,ACC/8,cravate bleue à bande rouge,,bleu,rouge blanc,cravate,1,BAC1
+9,ACC/9,cravate rouge à rayure,,rouge,,cravate,1,BAC1
+10,ACC/10,cravate noire,,noir,,cravate,4,BAC1
+11,ACC/11,cravate à rayure couleur divers,,noir,orange blanc,cravate,1,BAC1
+12,ACC/12,cravate grise à rayure blanche,,gris ,blanc,cravate,1,BAC1
+13,ACC/13,cravate bleue et rouge à motif ,,bleu,rouge beige,cravate,1,BAC1
+14,ACC/14,cravate noire avec écriture grise,,noir gris,,cravate,2,BAC1
+15,ACC/15,cravate noire et rouge à motif,,noir,rouge,cravate,1,BAC1
+16,ACC/16,cravate beige,,beige,,cravate,1,BAC1
+17,ACC/17,cravate bleue à carreau rouge,,bleu,blanc rouge,cravate,1,BAC1
+18,ACC/18,cravate grise à motif,,gris ,blanc,cravate,1,BAC1
+19,ACC/19,cravate marron à rayure rouge,,marron,rouge,cravate,1,BAC1
+20,ACC/20,cravate bleue ,,bleu,,cravate,1,BAC1
+21,ACC/21,cravate rouge à motif,,rouge,,cravate,1,BAC1
+22,ACC/22,cravate rose saumon motif vert,,rose,vert blanc,cravate,1,BAC1
+23,ACC/23,cravate marron à motif,,marron,,cravate,1,BAC1
+24,ACC/24,cravate rouge à motif rose,,rouge,rose,cravate,1,BAC1
+25,ACC/25,cravate noire et rouge  ,,noir rouge,,cravate,1,BAC1
+26,ACC/26,cravate grise à motif noire et blanche,,gris ,noir blanc,cravate,1,BAC1
+27,ACC/27,cravate noire à fleur rouge,,noir,rouge,cravate,1,BAC1
+28,ACC/28,cravate bleue et rouge rayée,,bleu,rouge blanc,cravate,1,BAC1
+29,ACC/29,cravate verte  ,,vert,,cravate,1,BAC1
+30,ACC/30,cravate marron  ,,marron,,cravate,1,BAC1
+31,ACC/31,lunettes à poils,,noir,,lunette,1,?????
+32,ACC/32,sifflet de gendarme,,gris ,,cou,8,BGEN2
+33,ACC/33,lunettes rondes,,gris ,,lunette,1,?????
+34,ACC/34,nœud papillon en tissu,,noir,rouge,noeud_papillon,1,?????
+35,ACC/35,paire de bretelles bleues,,bleu,argent,bretelles,9,?????
+36,ACC/36,paire de bretelles kaki et marron,,beige,vert,bretelles,1,?????
+37,ACC/37,paire de bretelles rouge bordeaux,,rouge,gris,bretelles,1,?????
+38,ACC/38,paire de bretelle crème et marron,,beige,marron,bretelles,6,?????
+39,ACC/39,gants blancs longs,,blanc,,gants,1,?????
+40,ACC/40,gants crème longs,,beige,,gants,1,?????
+41,ACC/41,gants en dentelle courts,,blanc,,gants,1,?????
+42,ACC/42,gants en dentelle courts à motif,,blanc,,gants,1,?????
+43,ACC/43,gants en laine bleu,,bleu,,gants,1,?????
+44,ACC/44,gants bleu,,bleu,blanc,gants,1,?????
+45,ACC/45,gants blancs à damier,,blanc,,gants,1,?????
+46,ACC/46,gants blancs jaunis,,blanc,jaune,gants,1,?????
+47,ACC/47,gants en dentelle courts,,blanc,,gants,1,?????
+48,ACC/48,gants en soie ,,blanc,,gants,1,?????
+49,ACC/49,gants blancs courts,,blanc,,gants,1,?????
+50,ACC/50,gants blancs d’hiver,,blanc,,gants,1,?????
+51,ACC/51,gants en dentelle courts,,blanc,,gants,1,?????
+52,ACC/52,gants blancs courts,,blanc,,gants,1,?????
+53,ACC/53,gants blancs longs,,blanc,beige,gants,1,?????
+54,ACC/54,gants blancs courts,,blanc,,gants,1,?????

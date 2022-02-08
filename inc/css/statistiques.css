@@ -1,0 +1,112 @@
+/**PAGE TITLE**/
+#page_title {
+    font-family: Poppins,sans-serif;
+    font-weight: 700;
+    background-color: #333740;
+    color: white;
+}
+#page_title > h1 {
+    margin-left: 4.4rem;
+    font-size: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+/** MAIN **/
+#stats {
+    padding-left: 3.5rem;
+    padding-top: 1.5rem;
+}
+/** TITRE DES PARTIES **/
+.partie_titre {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+#stat_g_colonne_1 {
+    width: 25%;
+}
+/** STAT GENERAL *4 **/
+#stat_g_info_generale {
+    display: flex;
+    margin-top: 2rem;
+}
+#stat_g_info_generale > div {
+    width: 20%;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.10);
+    margin-right: 3rem;
+    border: 1px solid rgb(247, 247, 247);
+    border-radius: 0.5rem;
+    border: 1px solid rgb(233, 233, 233);
+}
+.ref_1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.80rem;
+    text-transform: uppercase;
+    color: grey;
+    padding-top: 0.8rem;
+    padding-left: 1rem;
+    font-weight: 300;
+}
+.ref_1_chiffres {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    color:#333740;
+    font-weight: 600;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.75rem;
+}
+/** STAT GENERAL COLONNE **/
+#stat_g_colonnes {
+    padding-top: 2rem;
+}
+#stat_g_colonne_1 {
+    box-shadow: 0 0 1rem rgba(0,0,0,0.10);
+    border: 1px solid rgb(247, 247, 247);
+    border-radius: 0.5rem;
+    border: 1px solid rgb(233, 233, 233);
+}
+.titre_graphiques {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.80rem;
+    text-transform: uppercase;
+    color: grey;
+    padding-top: 0.8rem;
+    padding-left: 1rem;
+    font-weight: 300;
+}
+#statistiques_globales_1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+/*** LEGENDES ***/
+.legend {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 0.75rem;
+}
+.color_legend {
+    display: flex;
+}
+.color_round {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 1rem;
+    margin-right: 0.5rem;
+}
+.blue_1 {
+    background-color: #76bbcb
+}
+.gray_1 {
+    background-color: #333740;
+}
+.green_1 {
+    background-color: #c9e265;
+}
+.color_legend > p {
+    font-family: Poppins,sans-serif;
+    font-weight: 100;
+    font-size: 0.75rem;
+    padding-top: 0.125rem;
+}

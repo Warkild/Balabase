@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balabase - Accueil</title>
+    <!------CSS------->
+    <link type="text/css" rel="stylesheet" href="../inc/css/reset.css">
+    <link type="text/css" rel="stylesheet" href="../inc/css/header.css">
+    <link type="text/css" rel="stylesheet" href="../inc/css/statistiques.css">
+    <!-------FONTS------->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Chango&family=Montserrat:wght@100;300;400;500;600&family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100&family=Rubik:wght@400;600;700&family=Work+Sans:wght@700&display=swap" rel="stylesheet">
+    <!--------JAVASCRIPT-------->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="../inc/base_local/base/couvre_chefs.json"></script>
+    <script type="text/javascript" src="../inc/base_local/base/vetements.json"></script>
+    <script type="text/javascript" src="../inc/base_local/base/accessoires_portables.json"></script>
+    <script type="text/javascript" src="../inc/js/statistiques.js"></script>
+</head>
+<body>
+    <header>
+        <div id="header">
+            <div id="balabase_logo">
+                <img src="../img/logo/balabase_white.png">
+            </div>
+            <div id="nav_bar">
+                <div id="in_site">
+                    <a href="../index.html">Accueil</a>
+                    <a href="recherche.html">Rechercher</a>
+                    <a>Documents</a>
+                    <a href="statistiques.html">Statistiques</a>
+                </div>
+                <div id="out_site">
+                    <a href="https://github.com/Warkild/Balabase"><img src="../img/icons/download.png"/></a>
+                    <a href="mailto:alexandre17.jaud@gmail.com?subject=[BALABASE] Bug"><img src="../img/icons/bug.png"/></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div id="page_title">
+            <h1>Statistiques</h1>
+        </div>
+        <div id="stats">
+            <h2 class="partie_titre">/ Généralités</h2>
+            <div id="stat_g_info_generale">
+                <div id ="nb_total_references">
+                    <p class="ref_1">Nombre total de références</p>
+                    <p id="insert_nb_total_references" class="ref_1_chiffres">a</p>
+                </div>
+                <div id ="nb_total_articles">
+                    <p class="ref_1">Nombre total d'articles</p>
+                    <p id="insert_nb_total_articles" class="ref_1_chiffres"></p>
+                </div>
+            </div>
+            <div id=stat_g_colonnes>
+                <div id="stat_g_colonne_1">
+                    <p class="titre_graphiques">Répartition par Catégorie (références)</p>
+                    <div id="statistiques_globales_1"></div>
+                    <div class="legend">
+                        <div class="color_legend">
+                            <div class="color_round gray_1"></div>
+                            <p>Couvre-Chefs</p>
+                        </div>
+                        <div class="color_legend">
+                            <div class="color_round blue_1"></div>
+                            <p>Vêtements</p>
+                        </div>
+                        <div class="color_legend">
+                            <div class="color_round green_1"></div>
+                            <p>Accessoires Portables</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="stat_g_colonne_2"></div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

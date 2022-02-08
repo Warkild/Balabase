@@ -1,0 +1,297 @@
+id,réf,nom,epoque,epoque2,sexe,couleur_dominante,couleurs_autres,type,voile,quantite,lieu,bijoux
+0,COI/0,Hénin tronqué vert bandeau vert or et voile d’organza,XV,,F,vert blanc or,,,oui,1,BCOI1,sans_bijoux
+1,COI/1,Tambourin velour vert or,XV,,F,vert or,,,oui,1,BCOI1,avec_bijoux
+2,COI/2,Tambourin blanc gris,XII,,F,blanc gris,,,oui,1,BCOI1,avec_bijoux
+3,COI/3,Couronne couleur bronze avec tissu noir et bijoux gris et or,XII,,F,bronze gris or,,,non,1,BCOI1,avec_bijoux
+4,COI/4,Coiffe rouge avec voile et bande marron blanc,XII,XV,F,rouge blanc marron,,,oui,1,BCOI1,sans_bijoux
+5,COI/5,Chapeau charles vii marron croisées or,XV,,H,marron jaune,,,non,1,BCOI1,sans_bijoux
+6,COI/6,Coiffe blanche avec voile et perle blanche au centre,XII,,F,blanc or,,,oui,1,BCOI1,avec_bijoux
+7,COI/7,Coiffe jaune orange avec voile et motif triangle vert blanc,XV,,F,jaune blanc vert,,,oui,1,BCOI1,sans_bijoux
+8,COI/8,Hénin tronqué or boudin rouge liseré or argent,XV,,F,jaune rouge,,,non,1,BCOI1,sans_bijoux
+9,COI/9,Hénin tronqué or mordoré vioet et or à double tuyau,XV,,F,violet orange blanc,,,oui,1,BCOI1,sans_bijoux
+10,COI/10,Coiffe verte clair avec voile et broche fleur en or,XV,,F,vert or blanc,,,oui,1,BCOI1,avec_bijoux
+11,COI/11,Coiffe marron et jaune avec voile  (paille a l'interieur),XV,,F,marron jaune or,,,oui,1,BCOI1,sans_bijoux
+12,COI/12,Coiffe jaune marron avec voile et bijoux dans un triangle jaune,XII,,F,jaune marron blanc,,,oui,1,BCOI1,avec_bijoux
+13,COI/13,Coiffe emboîtante marie de valois vieux rose bleu ciel,XV,,F,bleu rose,,,non,1,BCOI1,sans_bijoux
+14,COI/14,Coiffe bleu déteinte avec voile et collier de perle blanche autour,XV,,F,bleu blanc noir,,,oui,1,BCOI1,avec_bijoux
+15,COI/15,Hénin noir long avec voile en carton,XV,,F,noir blanc,,,oui,1,BCOI1,sans_bijoux
+16,COI/16,Hénin tronqué beige et verte avec voile et triangle perle et bijoux,XV,,F,beige blanc vert,,,oui,1,BCOI1,avec_bijoux
+17,COI/17,Coiffe bleu tissu moiré avec voile et tissu bleu foncé et perles blanches,XII,,F,bleu blanc,,,oui,1,BCOI2,avec_bijoux
+18,COI/18,Coiffe rouge velours avec voile et collier de perles autour,XII,,F,rouge blanc,,,oui,1,BCOI2,avec_bijoux
+19,COI/19,Coiffe noir et verte avec voile et collier de perles rouge et bijoux dorés,XII,,F,noir vert blanc rouge or,,,oui,1,BCOI2,avec_bijoux
+20,COI/20,Coiffe bleu plissée avec voile et perles blanches au centre,XII,,F,bleu blanc,,,oui,1,BCOI2,avec_bijoux
+21,COI/21,Coiffe boudin rose et ruban bleu marine,XV,XII,F,rose bleu,,,oui,1,BCOI2,sans_bijoux
+22,COI/22,Coiffe boudin jaune creme et ruban bleu marine,XV,XII,F,bleu blanc,,,oui,1,BCOI2,sans_bijoux
+23,COI/23,Coiffe boudin jaune et ruban bleu marine,XV,XII,F,jaune blanc,,,oui,1,BCOI2,sans_bijoux
+24,COI/24,Coiffe type pape bleu clair et bords bleu foncé avec bijoux or au centre,XV,,F,bleu or,,,oui,1,BCOI2,sans_bijoux
+25,COI/25,Coiffe rouge bordeaux avec voile et collier de perles autour,XII,XV,F,rouge blanc,,,oui,1,BCOI2,avec_bijoux
+26,COI/26,Coiffe orange centre pointu avec bandes or et bagues noirs au centre,XII,,F,orange or noir,,,non,1,BCOI2,avec_bijoux
+27,COI/27,Coiffe jaune forme charlotte de la trémouille avec ruban jaune et perles autour et corde attache,XVI,,F,jaune,,,non,1,BCOI2,avec_bijoux
+28,COI/28,Coiffe rouge orangé avec voile et dessus de tete rouge et fleurs,XV,,F,rouge blanc,,,non,1,BCOI2,sans_bijoux
+29,COI/29,Coiffe marron clair panne de velours avec voile et corde marron clair et verte,XII,,F,marron vert blanc,,,oui,1,BCOI2,sans_bijoux
+30,COI/30,Coiffe avec motif bleu et gris clair avec voile et collier de perles autour et bijou première marie de valois,XV,,F,bleu gris blanc or,,,oui,1,BCOI2,avec_bijoux
+31,COI/31,Coiffe verte et boudin vert foncé avec voile et broderie or avec bijou marie de valois mariage,XV,,F,vert blanc or,,,non,1,BCOI2,sans_bijoux
+32,COI/32,Coiffe « type bergère » jeanne de montmorency marron jaune et carré noir avec attache noire,XVI,,F,marron jaune noir,,,non,1,BCOI2,sans_bijoux
+33,COI/33,Coiffe marron glacée forme v avec broderie bleue et perles blanches avec bijoux oranges marie de valois,XV,,F,orange marron bleu,,,oui,1,BCOI2,avec_bijoux
+34,COI/34,Coiffe bleue velours avec perles blanches et bleue,XII,,F,bleu,,,non,1,BCOI3,avec_bijoux
+35,COI/35,Coiffe violette claire avec voile et ruban vert et blanc avec perles et bijou au milieu,XII,,F,violet ver blanc,,,oui,1,BCOI3,avec_bijoux
+36,COI/36,Coiffe bleue foncée avec voile et ruban blanc et bijoux bleus,XII,,F,bleu blanc,,,oui,1,BCOI3,avec_bijoux
+37,COI/37,Coiffe jaune avec voile et ruban argenté et bijou argent,XII,,F,jaune blanc argent,,,oui,1,BCOI3,avec_bijoux
+38,COI/38,Mentonnière or panne de velour alienor numéro 0.12,XII,,F,jaune,,,non,1,BCOI3,sans_bijoux
+39,COI/39,Coiffe beige gris avec voile et ruban marron avec perles blanches et bijou,XII,,F,gris marron blanc,,,oui,1,BCOI3,avec_bijoux
+40,COI/40,Coiffe rouge avec voile et bande de couleurs bijoux au centre,XV,,F,rouge,,,oui,1,BCOI3,avec_bijoux
+41,COI/41,Coiffe homme rouge bordeaux de page avec couture violet foncé,XV,XVI,H,rouge,violet,,non,1,BCOI3,sans_bijoux
+42,COI/42,Coiffe jaune avec voile et bijoux violets,XII,,F,jaune,violet blanc,,oui,1,BCOI3,avec_bijoux
+43,COI/43,Couronne couleur bronze avec tissu noir et perles blanches,XII,,F,bronze,noir blanc,,non,1,BCOI3,avec_bijoux
+44,COI/44,Coiffe rouge et blanc avec voile et ruban tressé autour et bijou,XV,XII,F,rouge,blanc,,oui,1,BCOI3,avec_bijoux
+45,COI/45,Coiffe or avec voile et bijoux boutons,XII,,F,or,blanc,,oui,1,BCOI3,avec_bijoux
+46,COI/46,Coiffe rose et broderies motif fleurs avec voile avec bijou,XV,XII,F,rose,or,,oui,1,BCOI3,avec_bijoux
+47,COI/47,Coiffe gris avec voile et bandeau marron et blanc avec bijou losange et bijou,XII,XV,F,gris,blanc marron,,oui,1,BCOI3,avec_bijoux
+48,COI/48,Coiffe verte avec bandeau vert clair et perles orange,XII,XV,F,vert,or orange,,non,1,BCOI3,avec_bijoux
+49,COI/49,Coiffe marron clair avec voile et bandeau marron foncé et pièce bijou,XII,,F,marron,blanc,,oui,1,BCOI3,avec_bijoux
+50,COI/50,Coiffe bleu foncé velours avec voile et bijou croix au centre et bijou trait sur les cotés,XII,,F,bleu,blanc,,oui,1,BCOI3,avec_bijoux
+51,COI/51,Mentonnière blanche tube,XII,,F,blanc,,,non,3,BCOI3,sans_bijoux
+52,COI/52,Coiffe rouge avec voile et perles noires et transparentes,XII,XV,F,rouge,noir blanc,,oui,1,BCOI3,avec_bijoux
+53,COI/53,Coiffe bleu canard avec voile et bandeau bleu et blanc avec perles au centre,XII,,F,bleu,blanc,,oui,1,BCOI3,avec_bijoux
+54,COI/54,Coiffe blanche avec ruban rose (et epingle a nourrice ),XII,,F,blanc,rose,,non,1,BCOI3,sans_bijoux
+55,COI/55,Mentonnière en voile à épingler,XII,,F,blanc,,,non,2,BCOI3,sans_bijoux
+56,COI/56,Voile disponible pour une coiffe,XII,XV,F,blanc,,,oui,2,BCOI3,sans_bijoux
+57,COI/57,Coiffe verte foncé avec voile et ruban vert et perles blanches,XII,XV,F,vert,blanc,,oui,1,BCOI4,avec_bijoux
+58,COI/58,Coiffe dur en bronze avec 2 bandeaux noirs et pièce au centre et bijoux,XII,,F,bronze,noir,,non,1,BCOI4,avec_bijoux
+59,COI/59,Coiffe bleu foncé avec voile et bijou or et perles grises au centre,XII,,F,bleu,or gris blanc,,oui,1,BCOI4,avec_bijoux
+60,COI/60,Coiffe bleu foncé avec voile et bandeau bleu en plus foncé et perles blanches,XII,,F,bleu,blanc,,oui,1,BCOI4,avec_bijoux
+61,COI/61,Coiffe motifs rouges avec voile et bandeau blanc avec perles rouges dessus et bijou,XII,XV,F,mordoré,blanc,,oui,1,BCOI4,avec_bijoux
+62,COI/62,Coiffe blanche avec voile et bandeau bleu turquoise enroulé de collier de perle blanches et bijou,XII,,F,blanc,bleu,,oui,1,BCOI4,avec_bijoux
+63,COI/63,Coiffe blanche avec voile et bandeau tissu marron et motifs avec losange blanc et or,XII,XV,F,blanc,rouge marron or,,oui,1,BCOI4,avec_bijoux
+64,COI/64,Coiffe violette claire avec bandeau blanc et bleu et perles blanches,XII,,F,violet,bleu blanc,,oui,1,BCOI4,avec_bijoux
+65,COI/65,Coiffe rose avec voile et collier de perles,XII,XV,F,rose,blanc,,oui,1,BCOI4,avec_bijoux
+66,COI/66,Coiffe jaune doré avec voile et bandeau motifs marrons verts blancs,XV,XII,F,or,vert marron blanc,,oui,1,BCOI4,sans_bijoux
+67,COI/67,Coiffe rayures blanches et vertes avec voile et perles bleu vert et orange,XII,,F,vert,blanc bleu orange,,oui,1,BCOI4,avec_bijoux
+68,COI/68,Coiffe bleu blanc avec voile et bandeau blanc avec perles et bijou doré,XII,,F,bleu,blanc or,,oui,1,BCOI4,avec_bijoux
+69,COI/69,Coiffe marron vert et bandeau blanc et jaune avec perles,XII,,F,marron,blanc or,,non,1,BCOI4,avec_bijoux
+70,COI/70,Coiffe bleu foncé avec voile et broderie or et cou,XII,,JF,bleu,or blanc,,oui,1,BCOI4,sans_bijoux
+71,COI/71,Coiffe motifs carré verts et beige avec voile et bandeau vert,XII,,F,verts,blanc,,oui,1,BCOI4,sans_bijoux
+72,COI/72,Hénin pointu bleu points blancs avec voile et collier de perles,XII,,F,bleu,blanc,,oui,1,BCOI5,avec_bijoux
+73,COI/73,Coiffe noir avec fourrure forme v et broderies or et bijou or,XV,,F,noir,or,,non,1,BCOI5,avec_bijoux
+74,COI/74,Hénin pointu brodée noir et jaune dorée avec voile noir et dorée,XII,,F,noir,or blanc,,oui,1,BCOI5,avec_bijoux
+75,COI/75,Hénin modèle fée blanc test jamais fini avec voile etat douteux,XII,,F,blanc,,,oui,1,BCOI5,sans_bijoux
+76,COI/76,Hénin pointu beige avec voile et broderie à la couture,XII,,F,blanc,beige,,oui,1,BCOI5,sans_bijoux
+77,COI/77,Boudin homme rouge bordeau et voile noir,XII,XV,H,rouge,noir,,non,1,BCOI6,sans_bijoux
+78,COI/78,Boudin homme vert foncé et voile noir,XII,XV,H,vert,noir,,non,1,BCOI6,sans_bijoux
+79,COI/79,Boudin homme gris motifs jaune et voile jaune,XII,XV,H,gris,jaune orange,,non,1,BCOI6,sans_bijoux
+80,COI/80,Boudin homme noir avec voile vert foncé,XII,XV,H,noir,vert,,non,1,BCOI6,sans_bijoux
+81,COI/81,Boudin homme orange avec voile orange,XII,XV,H,orange,,,non,1,BCOI6,sans_bijoux
+82,COI/82,Boudin homme noir et motifs rouge doré avec voile noir et doré et tour de cou saladin (costume arabe),XII,,H,noir,vert rouge,,oui,1,BCOI6,sans_bijoux
+83,COI/83,Boudin homme noir avec voile noir,XII,XV,H,noir,,,non,1,BCOI6,sans_bijoux
+84,COI/84,Boudin homme rouge et motifs jaune avec voile meme tissu,XII,XV,H,rouge,orange,,non,1,BCOI6,sans_bijoux
+85,COI/85,Couronne richard cœur de lion effet or,XII,,H,or,,,non,1,BCOI7,sans_bijoux
+86,COI/86,Boudin homme noir avec voile noir et bijou,XII,XV,H,noir,,,non,1,BCOI7,avec_bijoux
+87,COI/87,Boudin homme jaune brodé avec voile jaune brodé,XII,XV,H,jaune,,,non,1,BCOI7,sans_bijoux
+88,COI/88,Boudin homme rouge et noir avec voile noir,XII,XV,H,noir,rouge,,non,1,BCOI7,sans_bijoux
+89,COI/89,Boudin homme noir avec voile noir et bleu,XII,XV,H,noir,bleu,,non,1,BCOI7,sans_bijoux
+90,COI/90,Boudin homme rouge avec voile rouge foncé,XII,XV,H,rouge,,,non,1,BCOI7,sans_bijoux
+91,COI/91,Boudin homme rouge avec voile même tissu,XII,XV,H,rouge,,,non,1,BCOI7,sans_bijoux
+92,COI/92,Boudin homme orange avec voile meme tissu,XII,XV,H,orange,,,non,1,BCOI7,sans_bijoux
+93,COI/93,Chapeau prince de condé  vert de gris avec ruban blanc,XVI,,H,vert,blanc,,non,1,BCOI7,sans_bijoux
+94,COI/94,Boudin homme rouge avec voile rouge et blanc,XII,XV,H,rouge,blanc,,non,1,BCOI7,sans_bijoux
+95,COI/95,Chapeau de page violette avec perles oranges et froufrou marron et couture verte,XV,XVI,H,violet,marron vert,,non,1,BCOI8,sans_bijoux
+96,COI/96,Chapeau noir fourrure,toutes,,M,noir,,,non,1,BCOI8,sans_bijoux
+97,COI/97,Coiffe marron avec coutures blanches forme carré,XII,,H,marron,blanc,,non,1,BCOI8,sans_bijoux
+98,COI/98,Chapeau bleu foncé avec ruban doré,XV,,H,bleu,or,,non,1,BCOI8,sans_bijoux
+99,COI/99,Foulard noir et doré,,,,noir,or,,non,1,BCOI8,sans_bijoux
+100,COI/100,Mitre de diacre blanc et argent,XII,XV,H,blanc,vert,,non,1,BCOI8,sans_bijoux
+101,COI/101,Coiffe russe fourrure noir,toutes,,M,noir,,,non,1,BCOI8,sans_bijoux
+102,COI/102,Mître évèque violette interieur jaune avec perles et broderies or,toutes,,M,violet,or rouge blanc,,non,1,BCOI8,avec_bijoux
+103,COI/103,Cagoule noire avec visière verte de bourreau ou  marionnettiste,,,,noir,vert,,non,2,BCOI8,sans_bijoux
+104,COI/104,Chapeau noir avec élastique,19eme,,F,noir,,,non,1,BCOI11,sans_bijoux
+105,COI/105,Chapeau rouge en laine ,19eme,1950,F,rouge,noir,,non,1,BCOI11,sans_bijoux
+106,COI/106,Capeline femme feutre avec élastique,19eme,1950,F,noir,rose,,non,1,BCOI11,sans_bijoux
+107,COI/107,Chapeau marron femme béret avec élastique,1950,1,F,marron,,,non,1,BCOI11,sans_bijoux
+108,COI/108,Chapeau noir avec élastique et boutons noir,1950,,F,noir,,,non,1,BCOI11,sans_bijoux
+109,COI/109,Furet ou renard sur le cou,19eme,,F,marron,blanc,,non,1,BCOI11,sans_bijoux
+110,COI/110,Serre tête mariage,19eme,1950,F,blanc,,,non,1,BCOI11,sans_bijoux
+111,COI/111,Chapeau russe noir,19eme,1950,M,noir,,,non,1,BCOI11,sans_bijoux
+112,COI/112,Chapeau femme noir avec ruban blanc avec élastique,19eme,1950,F,noir,blanc,,non,1,BCOI11,sans_bijoux
+113,COI/113,Chapeau paille avec fleur et élastique orange,1950,,F,jaune,blanc,,non,1,BCOI11,sans_bijoux
+114,COI/114,Serre tête plume d’oie,19eme,1950,F,blanc,,,non,1,BCOI11,sans_bijoux
+115,COI/115,Chapeau beige rigide avec bijoux doré avec élastique,19eme,1950,F,beige,,,non,1,BCOI11,avec_bijoux
+116,COI/116,Chapeau paille multicolore type chinois avec ruban élastique avec point rouge ,1950,,F,jaune,rouge blanc jaune vert bleu,,non,1,BCOI11,sans_bijoux
+117,COI/117,Chapeau noir russe rond avec et sans élastique,19eme,1950,M,noir,,,non,2,BCOI11,sans_bijoux
+118,COI/118,Capeline femme rouge bordeaux avec ruban et élastique ,19eme,1950,F,rouge,,,non,1,BCOI11,sans_bijoux
+119,COI/119,Chapeau noir femme avec nœud et élastique,1950,,F,noir,,,non,1,BCOI11,sans_bijoux
+120,COI/120,Chapeau beige blanc avec élastique,1950,,F,beige,blanc,,non,1,BCOI11,sans_bijoux
+121,COI/121,Chapeau paille blanc et noir avec nœud a pois noir avec élastique,19eme,1950,F,blanc,noir,,non,1,BCOI11,sans_bijoux
+122,COI/122,Béret beige ,1950,,F,beige,,,non,1,BCOI11,sans_bijoux
+123,COI/123,Chapeau paille beige avec ruban avec élastique ,1950,,F,beige,,,non,1,BCOI11,sans_bijoux
+124,COI/124,Chapeau poil angora rouge bordeaux ,1950,,F,rouge,,,non,1,BCOI11,sans_bijoux
+125,COI/125,Chapeau femme blanc ,1950,,F,blanc,,,non,1,BCOI11,sans_bijoux
+126,COI/126,Chapeau cancan ruban jaune chapeau noir avec fleur rouge,19eme,,F,jaune,rouge bleu noir blanc vert,,non,1,BCAN1,sans_bijoux
+127,COI/127,Chapeau cancan ruban bleu clair chapeau noir jaune bleu foncé rouge,19eme,,F,bleu,noir rouge jaune vert blanc,,non,1,BCAN1,sans_bijoux
+128,COI/128,Chapeau cancan ruban bleu foncé noir blanc et fleur bleu,19eme,,F,bleu,noir blanc vert,,non,1,BCAN1,sans_bijoux
+129,COI/129,Chapeau cancan ruban jaune chapeau noir et jaune blanc,19eme,,F,jaune,vert blanc noir,,non,1,BCAN1,sans_bijoux
+130,COI/130,Chapeau cancan ruban bleu clair chapeau noir bleu rouge blanche ,19eme,,F,bleu,rouge blanc noir vert,,non,1,BCAN1,sans_bijoux
+131,COI/131,Chapeau cancan ruban bleu foncé et chapeau noir bleu foncé blanc et fleur jaune ,19eme,,F,bleu,jaune noir blanc ,,non,1,BCAN1,sans_bijoux
+132,COI/132,Chapeau cancan ruban rouge chapeau noir et rouge avec fleur,19eme,,F,rouge,noir blanc bleu jaune vert,,non,1,BCAN1,sans_bijoux
+133,COI/133,Chapeau cancan ruban bleu foncé avec chapeau noir et bleu foncé avec fleurs rouge et blanches,19eme,,F,bleu,vert blanc noir rouge,,non,1,BCAN1,sans_bijoux
+134,COI/134,Chapeau cancan ruban rouge chapeau noir et rouge bleu avec fleur blanche,19eme,,F,rouge,noir bleu vert blanc,,non,1,BCAN1,sans_bijoux
+135,COI/135,Chapeau cancan ruban jaune chapeau noir et jaune avec fleur blanche ,19eme,,F,jaune,noir vert blanc,,non,1,BCAN1,sans_bijoux
+136,COI/136,Chapeau cancan ruban bleu clair chapeau noir bleu clair rouge avec fleurs bleu et blanches,19eme,,F,bleu,rouge noir blanc jaune,,non,1,BCAN1,sans_bijoux
+137,COI/137,Perruque cheveux noirs mi long,toutes,,M,noir,,,non,1,BPER1,sans_bijoux
+138,COI/138,Perruque hommes des cavernes marron long avec barbe marron,toutes,,M,marron,,,non,1,BPER1,sans_bijoux
+139,COI/139,Perruque cheveux marrons longs bouclés ,toutes,,M,marron,,,non,2,BPER1,sans_bijoux
+140,COI/140,Perruque cheveux noirs frisé courts,toutes,,M,noirs,,,non,1,BPER1,sans_bijoux
+141,COI/141,Perruque cheveux roux longs bouclés ,toutes,,M,roux,,,non,2,BPER1,sans_bijoux
+142,COI/142,Barbe rousse longue ,toutes,,M,roux,,,non,2,BPER1,sans_bijoux
+143,COI/143,Barbe brune longue,toutes,,M,marron,,,non,2,BPER1,sans_bijoux
+144,COI/144,Perruque cheveux marrons mi-longs lisses,toutes,,M,marron,,,non,1,BPER1,sans_bijoux
+145,COI/145,Perruque hommes des cavernes noirs longs sale,toutes,,M,noir,,,non,3,BPER1,sans_bijoux
+146,COI/146,Perruque cheveux blonds courts ,toutes,,M,blanc,,,non,1,BPER1,sans_bijoux
+147,COI/147,Perruque mortisia sorcière noir avec mèches blanches longs,toutes,,M,noir,blanc,,non,1,BPER1,sans_bijoux
+148,COI/148,Barbe noire longue,toutes,,M,noir,,,non,2,BPER1,sans_bijoux
+149,COI/149,Perruque cheveux noirs longs derrières et courts devant,toutes,,M,noir,,,non,1,BPER1,sans_bijoux
+150,COI/150,Perruque cheveux blancs type louis 16 révolution,toutes,,M,blanc,,,non,2,BPER1,sans_bijoux
+151,COI/151,Perruque cheveux blonds court lisses ,toutes,,M,blanc,,,non,1,BPER1,sans_bijoux
+152,COI/152,Perruque cheveux blonds brun court bouclés ,toutes,,M,blanc,,,non,1,BPER1,sans_bijoux
+153,COI/153,Perruque cheveux brun foncé courts lisses,toutes,,M,marron,,,non,1,BPER1,sans_bijoux
+154,COI/154,Ensemble druide cheveux et barbe blancs et longs,toutes,,M,blanc,,,non,1,BPER1,sans_bijoux
+155,COI/155,Chapeau marron russe ,toutes,,M,marron,,,non,1,BCOI11,sans_bijoux
+156,COI/156,Chapeau gavroche avec perruque marron,19eme,1950,H,gris,marron,,non,1,BCOI11,sans_bijoux
+157,COI/157,Casquette ancienne grise à carreaux ,19eme,1950,H,gris,,,non,1,BCOI11,sans_bijoux
+158,COI/158,Chapka bonnet laine marron,1950,,H,marron,,,non,1,BCOI11,sans_bijoux
+159,COI/159,Casquette ancienne marron clair avec un bouton à la visière,,,,marron,,,non,1,BCOI11,sans_bijoux
+160,COI/160,Casquette marron foncé ,,,,marron,,,non,1,BCOI12,sans_bijoux
+161,COI/161,Beret gris clair ,,,,gris,,,non,1,BCOI12,sans_bijoux
+162,COI/162,Moumoutte de neige noir avec visière,,,,noir,,,non,1,BCOI12,sans_bijoux
+163,COI/163,Bonnet femme beige,,,,marron,,,non,1,BCOI12,sans_bijoux
+164,COI/164,Chapeau vert foncé ruban marron,,,,vert,marron,,non,1,BCOI12,sans_bijoux
+165,COI/165,Casquette police ptt bleu foncé,,,,bleu,rouge,,non,1,BCOI12,sans_bijoux
+166,COI/166,Beret gris foncé à carreaux,,,,gris,,,non,1,BCOI12,sans_bijoux
+167,COI/167,Beret basque bleu foncé ,,,,bleu,,,non,1,BCOI12,sans_bijoux
+168,COI/168,Beret basque bleu foncé grand,,,,bleu,,,non,1,BCOI12,sans_bijoux
+169,COI/169,Chapeau bleu foncé avec élastique ,,,,bleu,blanc,,non,1,BCOI12,sans_bijoux
+170,COI/170,Chapeau police bleu et rouge,,,,bleu,rouge,,non,3,BCOI12,sans_bijoux
+171,COI/171,Beret beige marron,,,,marron,,,non,1,BCOI12,sans_bijoux
+172,COI/172,Chapeau type marine bleu foncé,,,,bleu,,,non,1,BCOI12,sans_bijoux
+173,COI/173,Casquette marron foncé ,,,,marron,,,non,1,BCOI12,sans_bijoux
+174,COI/174,Chapeau fourrure noir avec ruban noir,,,,noir,,,non,1,BCOI12,sans_bijoux
+175,COI/175,Beret bleu foncé à carreaux,,,,bleu,,,non,1,BCOI12,sans_bijoux
+176,COI/176,Chapeau femme enterrement noir avec filet et ruban et élastique,,,,noir,,,non,1,BCOI12,sans_bijoux
+177,COI/177,Chapeau noir étrange ,,,,noir,,,non,1,BCOI12,sans_bijoux
+178,COI/178,Beret marron beige avec bouton à la visière,,,,marron,,,non,1,BCOI12,sans_bijoux
+179,COI/179,Beret basque noir ,,,,noir,,,non,1,BCOI12,sans_bijoux
+180,COI/180,Beret blanc avec bouton sur la visière,,,,blanc,,,non,1,BCOI12,sans_bijoux
+181,COI/181,Beret gris foncé avec bouton à la visière,,,,gris,,,non,1,BCOI12,sans_bijoux
+182,COI/182,Beret beige bleu blanc à carreaux avec bouton,,,,beige,bleu marron,,non,1,BCOI12,sans_bijoux
+183,COI/183,Beret gris à carreaux,,,,gris,,,non,1,BCOI12,sans_bijoux
+184,COI/184,Beret gris en laine,,,,gris,,,non,1,BCOI12,sans_bijoux
+185,COI/185,Beret basque noir grand,,,,noir,,,non,1,BCOI12,sans_bijoux
+186,COI/186,Beret beige vert avec bouton,,,,beige,,,non,1,BCOI12,sans_bijoux
+187,COI/187,Beret marron avec bouton,,,,marron,,,non,1,BCOI12,sans_bijoux
+188,COI/188,Beret vert kaki ,,,,vert,,,non,1,BCOI12,sans_bijoux
+189,COI/189,Beret laine marron gris noir avec bouton,,,,gris,marron noir,,non,1,BCOI12,sans_bijoux
+190,COI/190,Beret basque bleu foncé ,,,,bleu,,,non,1,BCOI12,sans_bijoux
+191,COI/191,Chapeau paille beige et bleu avec fleurs ,,,,beige,bleu rose vert,,non,1,BCHA1,sans_bijoux
+192,COI/192,Chapeau paille beige et noir avec fleurs,,,,beige,noir rose vert blanc,,non,1,BCHA1,sans_bijoux
+193,COI/193,Chapeau paille beige et vert avec fleurs,,,,beige,vert rose,,non,1,BCHA1,sans_bijoux
+194,COI/194,Chapeau paille avec ruban jaune et fleurs multicolores ,,,,beige,jaune blanc rose bleu,,non,1,BCHA1,sans_bijoux
+195,COI/195,Chapeau paille beige et noir violet ,,,,beige,noir blanc violet,,non,1,BCHA1,sans_bijoux
+196,COI/196,Chapeau paille avec ruban jaune ,,,,beige,jaune,,non,1,BCHA1,sans_bijoux
+197,COI/197,Chapeau paille beige et bleu avec citrons ,,,,beige,bleu,,non,1,BCHA1,sans_bijoux
+198,COI/198,Chapeau paille noir avec fleur en tissu et filet blanche ,,,,noir,blanc,,non,1,BCHA1,sans_bijoux
+199,COI/199,Chapeau noir avec traine noir enterrement,,,,noir,,,oui,1,BCHA1,sans_bijoux
+200,COI/200,Chapeau paille noir  avec rubans noir et blanc,,,,noir,blanc,,non,1,BCHA1,sans_bijoux
+201,COI/201,Chapeau paille rouge ,,,,rouge ,,,non,1,BCHA1,sans_bijoux
+202,COI/202,Chapeau paille beige sans décor,,,,beige,,,non,1,BCHA1,sans_bijoux
+203,COI/203,Chapeau paille beige et rouge à fleurs avec bandeau rouge à fleur ,,,,beige,rouge,,non,1,BCHA1,sans_bijoux
+204,COI/204,Chapeau paille beige et multicolore avec bandeau vert clair ,,,,beige,vert,,non,1,BCHA1,sans_bijoux
+205,COI/205,Chapeau paille avec bandeau noir gris violet,,,,beige,violet,,non,1,BCHA1,sans_bijoux
+206,COI/206,Chapeau paille beige et bleu vert avec fleurs et bonbons ,,,,beige,bleu jaune rouge,,non,1,BCHA1,sans_bijoux
+207,COI/207,Chapeau paille beige recouvert de filet noir et ruban rouge bordeaux ,,,,beige,noir rouge,,non,1,BCHA1,sans_bijoux
+208,COI/208,Chapeau paille beige avec ruban marron et à fleurs,,,,beige,marron noir jaune rouge,,non,1,BCHA1,sans_bijoux
+209,COI/209,Chapeau paille beige avec ruban vert et blanc,,,,beige,vert blanc,,non,1,BCHA1,sans_bijoux
+210,COI/210,Chapeau paille recouvert de gris et marron élégant,,,,gris,marron,,non,1,BCHA1,sans_bijoux
+211,COI/211,Képi gendarme bleu,,,,bleu,,,non,12,BGEN2,sans_bijoux
+212,COI/212,Képi gendarme gradé noir et or,,,,noir,or,,non,1,BGEN2,sans_bijoux
+213,COI/213,Képi gendarme gradé rouge et or,,,,rouge,or noir,,non,1,BGEN2,sans_bijoux
+214,COI/214,Képi gendarme noir et bleu foncé souple,,,,bleu,noir,,non,1,BGEN2,sans_bijoux
+215,COI/215,Coiffe femme avec nœud bleu vert,,,,bleu,,,non,1,BCOI12,sans_bijoux
+216,COI/216,Chapeau homme avec ruban gris foncé ,,,,gris,,,non,1,BCD1,sans_bijoux
+217,COI/217,Chapeau femme fourrure et tissu marron ,,,,marron,,,non,1,BCD1,sans_bijoux
+218,COI/218,Coiffe femme noire avec élastique ,,,,noir,,,non,1,BCD1,sans_bijoux
+219,COI/219,Coiffe fourrure marron avec bouton devant ,,,,marron,,,non,1,BCD1,sans_bijoux
+220,COI/220,Coiffe femme blanche avec élastique et bouton et décoration sur le coté,,,,blanc,,,non,1,BCD1,sans_bijoux
+221,COI/221,Chapeau femme bleu marine avec ruban bleu foncé,,,,bleu,,,non,1,BCD1,sans_bijoux
+222,COI/222,Coiffe à trou noir ,,,,noir,,,non,1,BCD1,sans_bijoux
+223,COI/223,Chapeau femme fourrure noir ,,,,noir,,,non,1,BCD1,sans_bijoux
+224,COI/224,Coiffe de chasse homme marron type beret avec élastique ,,,,marron,,,non,1,BCD1,sans_bijoux
+225,COI/225,Coiffe homme type russe vert kaki,,,,vert,,,non,1,BCD1,sans_bijoux
+226,COI/226,Casquette homme noir avec élastique,,,,noir,,,non,1,BCD1,sans_bijoux
+227,COI/227,Chapeau femme fin noir et petit,,,,noir,,,non,1,BCD1,sans_bijoux
+228,COI/228,Chapeau femme bleu élavé avec ruban bleu clair ,,,,bleu,,,non,1,BCD1,sans_bijoux
+229,COI/229,Chapeau noir bords remontés ,,,,noir,,,non,1,BCD1,sans_bijoux
+230,COI/230,Chapeau noir bord remontés élastique cassé,,,,noir,,,non,1,BCD1,sans_bijoux
+231,COI/231,Animal mort marron,,,,marron,,,non,1,BCD1,sans_bijoux
+232,COI/232,Chapeau femme rond en laine marron ,,,,marron,,,non,1,BCD1,sans_bijoux
+233,COI/233,Beret femme noir ,,,,noir,,,non,1,BCD1,sans_bijoux
+234,COI/234,Beret homme gris ,,,,gris,,,non,1,BCD1,sans_bijoux
+235,COI/235,Chapeau femme marron clair avec nœud marron devant ,,,,marron,,,non,1,BCD1,sans_bijoux
+236,COI/236,Chapeau marron classique type cow-boy,,,,marron,,,non,1,BCD1,sans_bijoux
+237,COI/237,Canotier en osier,,,,jaune,noir,,non,69,BCANO,sans_bijoux
+238,COI/238,Canotier en plastique ,,,,jaune,noir,,non,1,BCANO,sans_bijoux
+239,COI/239,Chapeau de paille jaune et rose ,,,,jaune,rose,,non,1,BCD1,sans_bijoux
+240,COI/240,Chapeau femme mariage blanc à dentelle et fleur marron,,,,blanc,marron,,non,1,BCD1,sans_bijoux
+241,COI/241,Chapeau femme gris avec perles nacrées ,,,,gris,,,non,1,BCD1,sans_bijoux
+242,COI/242,Chapeau de paille bleu foncé avec filet bleu et fleur bleu ,,,,bleu,,,non,1,BCD1,sans_bijoux
+243,COI/243,Chapeau femme doré,,,,or,,,non,1,BCD1,sans_bijoux
+244,COI/244,Chapeau de paille marron avec tissu noir et blanc,,,,marron,noir blanc,,non,1,BCD1,sans_bijoux
+245,COI/245,Chapeau beige et vert ,,,,beige,vert,,non,1,BCD1,sans_bijoux
+246,COI/246,Chapeau vert foncé et marron,,,,vert,marron,,non,1,BCOI10,sans_bijoux
+247,COI/247,Chapeau de paille avec tissu marron,,,,beige,marron blanc,,non,1,BCOI10,sans_bijoux
+248,COI/248,Chapeau rose avec tissu rouge bordeaux et blanc,,,,rose,violet,,non,1,BCOI10,sans_bijoux
+249,COI/249,Chapeau gris à fleur rouge bordeaux,,,,gris,rouge,,non,1,BCOI10,sans_bijoux
+250,COI/250,Coiffe femme marron avec élastique et fleur noire ,,,,marron,noir,,non,1,BCOI10,sans_bijoux
+251,COI/251,Chapeau vert à carreau et tissu vert foncé,,,,vert,beige,,non,1,BCOI10,sans_bijoux
+252,COI/252,Coiffe gendarme bleu marine rouge ,,,,bleu,rouge,,non,3,BCOI10,sans_bijoux
+253,COI/253,Coiffe gendarme bleu marine rigide,,,,bleu,noir jaune,,non,1,BCOI10,sans_bijoux
+254,COI/254,Coiffe gendarme rouge et noir,,,,rouge,noir or,,non,2,BCOI10,sans_bijoux
+255,COI/255,Voile jaune,,,,jaune,,,non,1,BCOI10,sans_bijoux
+256,COI/256,capeline noire avec raisins 1900,,,,noir,violet,,non,1,BCOI14,sans_bijoux
+257,COI/257,capeline noire avec fleur blanche 1900,,,,noir,blanc,,non,1,BCOI14,sans_bijoux
+258,COI/258,chapeau melon noir avec elastique 1900,,,,noir,,,non,1,BCOI14,sans_bijoux
+259,COI/259,chapeau melon noir authentique abimé 1900,,,,noir,,,non,1,BCOI14,sans_bijoux
+260,COI/260,chapeau melon noir récent 1900,,,,noir,,,non,2,BCOI14,sans_bijoux
+261,COI/261,chapeau de paille élégant avec ruban bleu jeune fille,,,,jaune,bleu,,non,1,BCOI15,sans_bijoux
+262,COI/262,chapeau de sherlock holmes,,,,gris,,,non,1,BCOI15,sans_bijoux
+263,COI/263,chapeau gris pure feutre garanti,,,,gris,,,non,1,BCOI15,sans_bijoux
+264,COI/264,chapeau noir ,,,,noir,,,non,1,BCOI15,sans_bijoux
+265,COI/265,tete pour chauve ,,,,beige,,,non,1,BCOI15,sans_bijoux
+266,COI/266,béret beige rouge noir ,,,,beige,noir marron,,non,1,BCOI15,sans_bijoux
+267,COI/267,chapeau claque marron 1900,,,,noir,,,non,1,BCOI15,sans_bijoux
+268,COI/268,chapeau melon marron,,,,marron,,,non,1,BCOI15,sans_bijoux
+269,COI/269,beret vert et gris ,,,,gris,vert,,non,1,BCOI15,sans_bijoux
+270,COI/270,chapeau melon noir très abimé 1900,,,,noir,,,non,1,BCOI15,sans_bijoux
+271,COI/271,chapeau melon noir pas authentique 1900,,,,noir,,,non,1,BCOI15,sans_bijoux
+272,COI/272,chapeau femme elegant blanc,,,,marron,noir,,non,1,BCOI15,sans_bijoux
+273,COI/273,chapeau de femme ,,,,jaune,blanc,,non,1,BCOI15,sans_bijoux
+274,COI/274,Chapeau de paille avec ruban vert ,,,,jaune,vert,,non,1,BCOI15,sans_bijoux
+275,COI/275,chapeau de paille femme avec ruban rouge ,,,,jaune,rouge,,non,1,BCOI15,sans_bijoux
+276,COI/276,chapeau de femme ruban bleu et fleur blanche,,,,jaune,bleu blanc,,non,1,BCOI14,sans_bijoux
+277,COI/277,chapeau femme rouge et noir,,,,jaune,rouge noir,,non,1,BCOI14,sans_bijoux
+278,COI/278,chapeau de paille femme ruban noir et blanc,,,,jaune,noir blanc,,non,1,BCOI14,sans_bijoux
+279,COI/279,chapeau de femme rose,,,,jaune,rose blanc,,non,1,BCOI14,sans_bijoux
+280,COI/280,chapeau femme orange sur le coté ,,,,jaune,orange marron,,non,1,BCOI14,sans_bijoux
+281,COI/281,chapeau femme jaune avec cerises ,,,,jaune,rose vert,,non,1,BCOI14,sans_bijoux
+282,COI/282,chapeau femme paille violet foncé ,,,,jaune,rose violet,,non,1,BCOI14,sans_bijoux
+283,COI/283,chapeau paille femme violet clair avec ruban,,,,jaune,violet,,non,1,BCOI14,sans_bijoux
+284,COI/284,chapeau marron avec bijou,,,,marron,or ,,non,1,BCOI10,avec_bijoux
+285,COI/285,masque de cyrano de bergerac rouge,,,,rouge,,,non,12,BMASQ1,sans_bijoux
+286,COI/286,masque de cyrano de bergerac vert,,,,vert,,,non,13,BMASQ1,sans_bijoux
+287,COI/287,masque de cyrano de bergerac noir,,,,noir,,,non,12,BMASQ1,sans_bijoux
+288,COI/288,masque d’ours vert,,,,vert,,,non,2,BMASQ1,sans_bijoux
+289,COI/289,masque de cochon marron ,,,,marron,,,non,1,BMASQ1,sans_bijoux
+290,COI/290,masque d’ours marron,,,,marron,,,non,1,BMASQ1,sans_bijoux
+291,COI/291,masque de lion marron,,,,marron,,,non,1,BMASQ1,sans_bijoux
+292,COI/292,masque d’ours noir,,,,noir,,,non,1,BMASQ1,sans_bijoux
+293,COI/293,masque de cochon rouge,,,,rouge,,,non,3,BMASQ1,sans_bijoux
+294,COI/294,masque souris / lapin noir ,,,,noir,,,non,2,BMASQ1,sans_bijoux
+295,COI/295,masque de souris marron ,,,,marron,,,non,1,BMASQ1,sans_bijoux

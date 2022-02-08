@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balabase - Accueil</title>
+    <!------CSS------->
+    <link type="text/css" rel="stylesheet" href="../inc/css/reset.css">
+    <link type="text/css" rel="stylesheet" href="../inc/css/header.css">
+    <link type="text/css" rel="stylesheet" href="../inc/css/filter.css">
+    <link type="text/css" rel="stylesheet" href="../inc/css/rechercher.css">
+    <!-------FONTS------->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Chango&family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Roboto:wght@300;400;500&family=Work+Sans:wght@700&display=swap" rel="stylesheet">
+    <!--------JAVASCRIPT-------->
+    <script type="text/javascript" src="../inc/base_local/base/couvre_chefs.json"></script>
+    <script type="text/javascript" src="../inc/base_local/base/vetements.json"></script>
+    <script type="text/javascript" src="../inc/base_local/base/accessoires_portables.json"></script>
+    <script type="text/javascript" src="../inc/js/search.js"></script>
+</head>
+<body>
+    <header>
+        <div id="header">
+            <div id="balabase_logo">
+                <img src="../img/logo/balabase_white.png">
+            </div>
+            <div id="nav_bar">
+                <div id="in_site">
+                    <a href="../index.html">Accueil</a>
+                    <a href="recherche.html">Rechercher</a>
+                    <a>Documents</a>
+                    <a href="statistiques.html">Statistiques</a>
+                </div>
+                <div id="out_site">
+                    <a href="https://github.com/Warkild/Balabase"><img src="../img/icons/download.png"/></a>
+                    <a href="mailto:alexandre17.jaud@gmail.com?subject=[BALABASE] Bug"><img src="../img/icons/bug.png"/></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div id="recherche_title">
+            <h1>Rechercher...</h1>
+        </div>
+        <div id="search">
+            <div id="filter">
+                <div id="categorie">
+                    <p id="results_infos"><strong id="number_results"></strong> résultats trouvés</p> <!-- ORTOGRAPHE PERSPECTIVES D'AMELIORATIONS -->
+                    <h6>/ Filtrer par catégorie</h6>
+                    <ul id="tag_categorie">
+                        <li id="filtre_categorie_couvrechefs">Couvre-Chefs</li>
+                        <li id="filtre_categorie_vetements">Vêtements</li>
+                        <li id="filtre_categorie_accessoiresPortables">Accessoires Portables</li>
+                    </ul>
+                </div>
+            </div>
+            <div id="search_resultats">
+            </div>
+        </div>
+    </main>
+</body>
+</html>

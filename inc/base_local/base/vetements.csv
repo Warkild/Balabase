@@ -1,0 +1,546 @@
+id,réf,nom,epoque,couleur_dominante,couleurs_autres,type,quantite,lieu
+0,VET/0,pantalon gendarmerie taille variable bleu marine,,bleu,,pantalon,11,BGEN1
+1,VET/1,pantalon gendarmerie taille variable bleu avec trait noir sur le coté ,,bleu,,pantalon,8,BGEN1
+2,VET/2,pull laine gendarmerie bleu marine,,bleu,blanc,pull,5,BGEN1
+3,VET/3,chemise gendarmerie bleu clair ,,bleu,,haut,6,BGEN1
+4,VET/4,débardeur blanc,,blanc,,haut,1,BCHA1
+5,VET/5,chemise grise à carreau avec manches courtes ,,gris,,haut,1,BCHA1
+6,VET/6,chemise à carreaux trop grande blanc et marron et rouge à manches longues,,marron,blanc orange,haut,1,BCHA1
+7,VET/7,veste noire avec une bouton ,,noir,,haut,1,BCHA1
+8,VET/8,jupe noire avec ruban à la ceinture,,noir,,jupe,1,BJU2
+9,VET/9,jupe noire froissée,,noir,,jupe,1,BJU2
+10,VET/10,robe longue verte foncée avec couture à carreaux,,vert,,robe,1,BRO3
+11,VET/11,robe longue noire avec points blancs avec boutons devant,,noir,blanc,robe,2,BRO3
+12,VET/12,robe moyenne débardeur à carreaux verte dentelle sur les bords,,gris,,robe,1,BRO3
+13,VET/13,robe longue noire avec manches longues en toiles,,noir,,robe,1,BRO3
+14,VET/14,veste de costume grise ,,gris,,veste,1,BVE1
+15,VET/15,veste fine marron avec boutons ,,marron,,veste,1,BVE1
+16,VET/16,veste verte,,vert,,veste,1,BVE1
+17,VET/17,Veste longue fine grise avec ceinture ,,gris,,veste,1,BVE1
+18,VET/18,veste courte noire avec boutons gris ,,noir,gris,veste,1,BVE1
+19,VET/19,veste noire avec col ,,noir,,veste,1,BVE1
+20,VET/20,manteau noire avec fourrure noire,,noir,,veste,1,BVE1
+21,VET/21,veste longue grise ,,gris,,veste,1,BVE1
+22,VET/22,veste courte noire sans fermeture,,noir,,veste,1,BVE1
+23,VET/23,veste marron avec manche et col à tissu vert à rayure et boutons dorés,,marron,blanc vert,veste,1,BVE1
+24,VET/24,veste couleur bleu jean courte gros boutons dorés,,bleu,or,veste,1,BVE1
+25,VET/25,veste blanche avec bords noirs ,,blanc,noir,veste,1,BVE1
+26,VET/26,veste noire avec boutons,,noir,,veste,1,BVE1
+27,VET/27,veste bleu foncé enfant ,,bleu,or,veste,1,BTEN1
+28,VET/28,chemise blanche avec haut brodé ,,blanc,,haut,1,BCHA1
+29,VET/29,T-shirt à manches longues blanc délavé,,blanc,,haut,1,BCHA1
+30,VET/30,chemise blanc ,,blanc,,haut,1,BCHA1
+31,VET/31,chemise rouge à pois blanc ,,rouge,blanc,haut,1,BCHA1
+32,VET/32,T-shirt transparent bleu à fleurs bleu,,blanc,bleu vert,haut,1,BCHA1
+33,VET/33,chemise noire à rayures noires ,,noir,,haut,1,BCHA1
+34,VET/34,veste en laine blanche à manches longues ,,blanc,,veste,1,BCHA1
+35,VET/35,chemise blanche à motifs ,,blanc,,haut,1,BCHA1
+36,VET/36,chemise de nuit blanche à fleurs ,,blanc,,haut,1,BCHA1
+37,VET/37,chemise blanche à carreaux marrons manches longues ,,blanc,,haut,1,BCHA1
+38,VET/38,chemise blanche transparente à broderies ,,blanc,,haut,1,BCHA1
+39,VET/39,pantalon noir,,noir,,pantalon,1,BGEN1
+40,VET/40,pantalon noir avec carré de tissus cousus et décousus ,,noir,vert marron jaune gris,pantalon,1,BPAN1
+41,VET/41,pantalon bordeaux avec carré de tissus cousus,,marron,vert orange noir,pantalon,1,BPAN1
+42,VET/42,pantalon bleu foncé avec carré de tissus cousus avec ceinture en jute,,bleu,vert marron,pantalon,1,BPAN1
+43,VET/43,pantalon marron clair avec carré de tissus cousus ,,marron,bleu,pantalon,1,BPAN1
+44,VET/44,pantalon bleu marine homme long élastique,,bleu,,pantalon,1,BPAN1
+45,VET/45,pantalon noir,,noir,,pantalon,1,BPAN1
+46,VET/46,robe blanche à pois noirs et boutons bleu devant,,blanc,noir,robe,1,BRO3
+47,VET/47,chemise adulte homme marron clair,,marron,,haut,1,BCHA1
+48,VET/48,chemise homme xxl à carreau bleue et blanc,,bleu,blanc,haut,1,BCHA1
+49,VET/49,chemise homme couleur crème,,marron,,haut,1,BCHA1
+50,VET/50,chemise homme bleu à rayures vertes avec broderie RB,,bleu,vert,haut,1,BCHA1
+51,VET/51,chemise homme à carreaux bleu foncé et blanc douce,,bleu,blanc,haut,1,BCHA1
+52,VET/52,chemise homme à rayures blanche et bleu,,bleu,,haut,1,BCHA1
+53,VET/53,chemise à carreaux bleu ,,bleu,,haut,1,BCHA1
+54,VET/54,chemise à motifs noir et gris ,,blanc,gris,haut,1,BCHA1
+55,VET/55,chemise à carreaux homme bleu,,bleu,,haut,1,BCHA1
+56,VET/56,chemise à motifs noir et bleu ,,bleu,,haut,1,BCHA2
+57,VET/57,chemise à rayures rouge et gris ,,blanc,,haut,1,BCHA2
+58,VET/58,chemise à rayures bleu clair blanc et noir ,,bleu,noir,haut,1,BCHA2
+59,VET/59,chemise grise,,gris,,haut,1,BCHA2
+60,VET/60,chemise à carreaux homme blanc vert ,,blanc,vert,haut,1,BCHA2
+61,VET/61,chemise blanche  ,,blanc,,haut,1,BCHA2
+62,VET/62,pantalon vert à carreaux bleu et rouge ,,vert,bleu rouge,pantalon,1,BPAN1
+63,VET/63,pantalon gris avec traits noir sur le coté,,gris,,pantalon,1,BPAN1
+64,VET/64,pantalon noir,,noir,,pantalon,1,BPAN1
+65,VET/65,veste multicolore violet,,rouge,violet orange,haut,1,BCHA2
+66,VET/66,chemise transparente blanche ,,blanc,,haut,1,BCHA2
+67,VET/67,chemise blanche  ,,blanc,,haut,30,BCHA2
+68,VET/68,chemise blanche longue ,,blanc,,haut,2,BCHA2
+69,VET/69,jupe longue blanche ,,blanc,,jupe,5,BJU2
+70,VET/70,jupe longue noir,,noir,,jupe,1,BJU2
+71,VET/71,robe de veuve noire à carreaux,,noir,,robe,1,BRO3
+72,VET/72,robe noire avec coutures à carreaux,,noir,,robe,1,BRO3
+73,VET/73,jupe blanche longue,,blanc,,jupe,13,BJU3
+74,VET/74,jupe courte transparente blanche,,blanc,,jupe,5,BJU3
+75,VET/75,jupe blanche courte avec motifs ,,blanc,,jupe,1,BJU3
+76,VET/76,jupon court blanc avec trous en bas,,blanc,,jupe,1,BJU3
+77,VET/77,costume clown enfant bleu blanc rouge à pois et rayures,,bleu,rouge blanc,enfant,1,BTEN1
+78,VET/78,tenue robe orpheline,,blanc,bleu,enfant,1,BTEN1
+79,VET/79,chemisier robe noire écolier,,noir,,enfant,1,BTEN1
+80,VET/80,blouse de maître d’école ,,bleu,,enfant,1,BTEN1
+81,VET/81,shorts bleu marine associé à la marinière blanche et bleu,,bleu,,enfant,1,BTEN1
+82,VET/82,short blanc associé à la marinière bleu et blanche,,blanc,,enfant,1,BTEN1
+83,VET/83,marinière enfant bleu et blanche avec nœud blanc,,bleu,blanc,enfant,1,BTEN1
+84,VET/84,marinière enfant blanche et bleu avec nœud bleu,,blanc,bleu,enfant,1,BTEN1
+85,VET/85,pantalon en velours vert kaki,,vert,,pantalon,2,BPAN1
+86,VET/86,pantalon en velours marron clair,,marron,,pantalon,1,BPAN1
+87,VET/87,pantalon blanc à rayures grises ,,blanc,,pantalon,1,BPAN1
+88,VET/88,pantalon jeans blanc ,,blanc,,pantalon,2,BPAN1
+89,VET/89,pantalon marron noir à carreaux,,noir,,pantalon,1,BPAN1
+90,VET/90,pantalon marron toile fin,,gris,,pantalon,1,BPAN1
+91,VET/91,pantalon type jogging velours gris et blanc,,blanc,gris,pantalon,1,BPAN1
+92,VET/92,pantalon de costume gris et noir rayures,,gris,,pantalon,2,BPAN2
+93,VET/93,pantalon type velours marron vert,,vert,,pantalon,1,BPAN1
+94,VET/94,pantalon de costume noir et gris à rayures,,noir,,pantalon,1,BPAN1
+95,VET/95,pantalon gris,,gris,,pantalon,1,BPAN1
+96,VET/96,pantalon noir bleu très foncé,,noir,,pantalon,3,BPAN1
+97,VET/97,pantalon de velours gris ,,gris,,pantalon,2,BPAN1
+98,VET/98,pantalon marron à rayures ,,marron,,pantalon,1,BPAN1
+99,VET/99,jeans gris ,,gris,,pantalon,1,BPAN1
+100,VET/100,pantalon noir,,noir,,pantalon,1,BPAN1
+101,VET/101,pantalon de travail bleu ,,bleu,,pantalon,1,BPAN2
+102,VET/102,chemise de travail bleu jeans,,bleu,,veste,2,BCHA2
+103,VET/103,chemise bleu délavée jeans,,bleu,,veste,1,BCHA2
+104,VET/104,chemise de travail bleu foncé petant avec logo CIM devant,,bleu,,veste,1,BCHA2
+105,VET/105,pantalon gris foncé,,gris,,pantalon,1,BPAN2
+106,VET/106,pantalon velours gris avec carré de coutures et ceintures en toile de jutes,,gris,marron jaune vert,pantalon,1,BPAN2
+107,VET/107,pantalon noir à rayures grises ,,noir,,pantalon,1,BPAN2
+108,VET/108,pantalon type jogging velours bleu marine et bleu,,bleu,,pantalon,1,BPAN2
+109,VET/109,pantalon bleu foncé,,bleu,,pantalon,1,BPAN2
+110,VET/110,pantalon velours marron ,,marron,,pantalon,1,BPAN2
+111,VET/111,pantalon bleu foncé noir,,bleu,,pantalon,1,BPAN2
+112,VET/112,pantalon noir de costume,,noir,,pantalon,1,BPAN2
+113,VET/113,pantalon noir avec ruban sur le coté ,,noir,,pantalon,1,BPAN2
+114,VET/114,jupe longue bleue unie,,bleu,,jupe,7,BJU3
+115,VET/115,jupe longue verte unie,,vert,,jupe,2,BJU3
+116,VET/116,Sur-jupe jaune moutarde avec poche et attache au dos,,jaune,,jupe,1,BJU4
+117,VET/117,Sur-jupe à carreaux bleu et jaune à poches,,bleu,jaune,jupe,2,BJU4
+118,VET/118,Sur-jupe à rayures bleu et beige ,,beige,bleu,jupe,1,BJU4
+119,VET/119,Sur-jupe à carreaux noir et blanc,,noir,gris,jupe,1,BJU4
+120,VET/120,Sur-jupe avec poche blanche et taches bleues,,blanc,bleu,jupe,1,BJU4
+121,VET/121,Sur-jupe à poche noire,,noir,,jupe,3,BJU4
+122,VET/122,Sur-jupe avec poche noire et blanche à pois ,,noir,blanc,jupe,1,BJU4
+123,VET/123,Sur-jupe avec poche violet et marron,,marron,violet,jupe,2,BJU4
+124,VET/124,Sur-jupe courte avec poche marron à carreaux,,marron,blanc,jupe,1,BJU4
+125,VET/125,Sur-jupe beige à poche ,,beige,,jupe,1,BJU4
+126,VET/126,Sur-jupe marron à poche ,,marron,,jupe,1,BJU4
+127,VET/127,salopette tablier blanc,,blanc,,salopette,1,BJU4
+128,VET/128,Sur-jupe blanche courte,,blanc,,jupe,1,BJU4
+129,VET/129,Sur-jupe à petits carreaux marron,,marron,,pantalon,1,BJU4
+130,VET/130,pantalon en velours marron ,,marron,,pantalon,1,BPAN2
+131,VET/131,pantalon à rayure noir et gris,,noir,gris,pantalon,1,BPAN2
+132,VET/132,pantalon gris ,,gris,,pantalon,1,BPAN2
+133,VET/133,pantalon noir uni,,noir,,pantalon,1,BPAN2
+134,VET/134,jeans bleu avec ceinture marron en jute et carreaux de tissus ,,bleu,marron violet vert,pantalon,1,BPAN2
+135,VET/135,jeans gris foncé type velours,,gris,,pantalon,1,BPAN2
+136,VET/136,pantalon noir sale à rayures droites,,noir,,pantalon,1,BPAN2
+137,VET/137,pantalon vert kaki en velours ,,vert,,pantalon,1,BPAN2
+138,VET/138,pantalon en velours beige,,beige,,pantalon,2,BPAN2
+139,VET/139,pantalon en velours gris taille large,,gris,,pantalon,1,BPAN2
+140,VET/140,pantalon en velours vert kaki ,,vert,,pantalon,1,BPAN3
+141,VET/141,pantalon marron foncé en velours,,marron,,pantalon,1,BPAN3
+142,VET/142,pantalon noir doux ,,noir,,pantalon,1,BPAN3
+143,VET/143,pantalon gris à rayures,,gris,,pantalon,1,BPAN3
+144,VET/144,pantalon gris à velours ,,gris,,pantalon,1,BPAN3
+145,VET/145,pantalon en velours bleu foncé ,,bleu,,pantalon,1,BPAN3
+146,VET/146,pantalon marron en velours avec ficelle ,,marron,blanc,pantalon,1,BPAN3
+147,VET/147,pantalon vert bleu ,,bleu,,pantalon,2,BPAN3
+148,VET/148,Panta-court à rayure gris noir,,noir,gris,pantalon,1,BPAN3
+149,VET/149,jupon longue bleu foncé 1900 ,,bleu,,jupe,1,BJU4
+150,VET/150,Chemisier 1900 blanc,,blanc,,haut,1,BCHA3
+151,VET/151,chemisier blanc 1900,,blanc,,haut,1,BCHA3
+152,VET/152,Chemisier 1900 ,,blanc,,haut,1,BCHA3
+153,VET/153,Chemisier 1900 long,,blanc,,haut,1,BCHA3
+154,VET/154,Chemisier 1900 ,,blanc,,haut,1,BCHA3
+155,VET/155,chemise blanche ,,blanc,,haut,1,BCHA3
+156,VET/156,chemisier blanc 1900,,blanc,,haut,1,BCHA3
+157,VET/157,chemisier blanc 1900,,blanc,,haut,1,BCHA3
+158,VET/158,chemisier beige ,,blanc,,haut,1,BCHA3
+159,VET/159,chemisier noir ,,noir,,haut,1,BCHA3
+160,VET/160,Chemisier noir sans manche  ,,noir,,haut,1,BCHA3
+161,VET/161,chemise longue blanche ,,blanc,,haut,1,BCHA3
+162,VET/162,chemise longue blanche ,,blanc,,haut,1,BCHA3
+163,VET/163,chemise blanche avec froufrou,,blanc,,haut,1,BCHA3
+164,VET/164,haut transparent blanc ,,blanc,,haut,1,BCHA3
+165,VET/165,jupon blanc court ,,blanc,,jupe,1,BJU5
+166,VET/166,jupon blanc court avec dentelle,,blanc,,jupe,1,BJU5
+167,VET/167,jupon long blanc,,blanc,,jupe,5,BJU5
+168,VET/168,jupe longue blanche,,blanc,,jupe,1,BJU5
+169,VET/169,jupe longue blanche,,blanc,,jupe,1,BJU5
+170,VET/170,jupe longue blanche,,blanc,,jupe,1,BJU5
+171,VET/171,chemisier blanc manche blonde bouton or,,blanc,or,haut,1,BCHA3
+172,VET/172,chemisier blanc 1900,,blanc,,haut,1,BCHA3
+173,VET/173,chemise de nuit femme 19e ,,blanc,,haut,1,BCHA3
+174,VET/174,T-shirt blanc manche longue taille 42-44 ,,blanc,,haut,1,BCHA3
+175,VET/175,chemise blanche ,,blanc,,haut,1,BCHA3
+176,VET/176,chemise manche longue ,,blanc,,haut,1,BCHA3
+177,VET/177,chemisier blanc manche longue,,blanc,,haut,1,BCHA3
+178,VET/178,chemisier blanc 1900,,blanc,,haut,1,BCHA3
+179,VET/179,chemise blanche rayé,,blanc,,haut,1,BCHA3
+180,VET/180,chemise blanche manche longue ,,blanc,,haut,1,BCHA3
+181,VET/181,chemisier blanc avec nœud au cou,,blanc,,haut,1,BCHA3
+182,VET/182,chemisier blanc col ,,blanc,,haut,1,BCHA3
+183,VET/183,chemisier blanc avec nœud au cou,,blanc,,haut,1,BCHA3
+184,VET/184,chemise blanche,,blanc,,haut,1,BCHA3
+185,VET/185,chemisier blanc,,blanc,,haut,1,BCHA3
+186,VET/186,robe de nuit blanche,,blanc,,haut,1,BCHA3
+187,VET/187,chemise blanche manche longue ,,blanc,,haut,1,BCHA3
+188,VET/188,chemise de nuit blanche ,,blanc,,haut,1,BCHA3
+189,VET/189,chemise de nuit blanche ,,blanc,,haut,1,BCHA3
+190,VET/190,chemise longue blanche ,,blanc,,haut,1,BCHA3
+191,VET/191,chemise blanche manche longue ,,blanc,,haut,1,BCHA3
+192,VET/192,chemise de nuit ,,blanc,,haut,1,BCHA3
+193,VET/193,chemise longue blanche ,,blanc,,haut,1,BCHA3
+194,VET/194,chemise manche moyenne ,,blanc,,haut,1,BCHA3
+195,VET/195,chemise longue blanche ,,blanc,,haut,1,BCHA3
+196,VET/196,chemise transparente manche longue,,blanc,,haut,1,BCHA3
+197,VET/197,chemise blanche manche longue ,,blanc,,haut,1,BCHA3
+198,VET/198,chemise blanche,,blanc,,haut,1,BCHA4
+199,VET/199,chemise blanche ,,blanc,,haut,1,BCHA4
+200,VET/200,chemise longue blanche ,,blanc,,haut,1,BCHA4
+201,VET/201,chemise de nuit blanche homme,,blanc,,haut,1,BCHA4
+202,VET/202,chemise longue blanche ,,blanc,,haut,1,BCHA4
+203,VET/203,chemise blanche courte manche longue ,,blanc,,haut,1,BCHA4
+204,VET/204,chemise longue blanche ,,blanc,,haut,1,BCHA4
+205,VET/205,chemise courte ,,blanc,,haut,1,BCHA4
+206,VET/206,chemise boutons nombreux ,,blanc,,haut,1,BCHA4
+207,VET/207,chemisier fleuri blanc ,,blanc,,haut,1,BCHA4
+208,VET/208,chemise brodée ,,blanc,,haut,1,BCHA4
+209,VET/209,chemise blanche ,,blanc,,haut,1,BCHA4
+210,VET/210,chemisier blanc manche longue ,,blanc,,haut,1,BCHA4
+211,VET/211,chemise blanche manche longue ,,blanc,,haut,1,BCHA4
+212,VET/212,chemisier blanc cassé,,blanc,,haut,1,BCHA4
+213,VET/213,chemise blanche ,,blanc,,haut,1,BCHA4
+214,VET/214,chemise blanche ,,blanc,,haut,1,BCHA4
+215,VET/215,veste sans manche marron et dos kaki homme,,marron,vert,haut,1,BCHA4
+216,VET/216,veste sans manche marron foncé et dos noir homme ( ou femme?),,marron,,haut,1,BCHA4
+217,VET/217,veste sans manche velours côtelé marron clair homme ,,marron,,haut,1,BCHA4
+218,VET/218,jupe noir imperméable,,noir,,jupe,1,BJU5
+219,VET/219,veste de costume homme noir taille 56 ,,noir,,veste,1,S510 – P1
+220,VET/220,robe rouge et blanche spectacle,,rouge,blanc,robe,1,S510 – P1
+221,VET/221,haut noir brodé en dentelle avec un jabot noir et argenté ,,noir,blanc,haut,1,S510 – P1
+222,VET/222,chemise blanche longue avec veste bleue ,,bleu,blanc,haut,1,S510 – P1
+223,VET/223,jupe salopette verte et noir tartan ,,vert,noir,jupe,3,S510 – P1
+224,VET/224,jupe salopette blanche et noir tartan ,,gris,,jupe,1,S510 – P1
+225,VET/225,uniforme de soldat 14/18,,bleu,rouge blanc,uniforme,1,S510 – P1
+226,VET/226,cape noir avec capuche ,,noir,,cape,1,S510 – P1
+227,VET/227,ensemble jupe + haut jaune à pois noir ,,jaune,noir,tenue,1,S510 – P1
+228,VET/228,ensemble jupe marron clair quadrillé + haut vert avec jabot ,,vert ,marron,tenue,1,S510 – P1
+229,VET/229,blouse du docteur rochet blanche ,,blanc,noir,tenue,1,S510 – P1
+230,VET/230,ensemble jupe a rayures beige + haut bleu et blanc,,bleu,blanc,tenue,1,S510 – P1
+231,VET/231,Ensemble jupe + haut à carreaux,,blanc,orange,tenue,1,S510 – P1
+232,VET/232,Ensemble jupe + haut rose,,rose,,tenue,1,S510 – P1
+233,VET/233,Ensemble jupe + haut vert,,vert,,tenue,1,S510 – P1
+234,VET/234,Ensemble jupe + haut violet,,violet,,tenue,1,S510 – P1
+235,VET/235,Ensemble jupe + haut rose saumon,,orange,,tenue,1,S510 – P1
+236,VET/236,Robe violet violet fuchsia a paillette,,violet,,robe,1,S510 – P1
+237,VET/237,Ensemble jupe + veste bleu et motif rouge,,bleu,rouge,tenue,1,S510 – P1
+238,VET/238,Ensemble veste + jupe rose ,,rose,,tenue,1,S510 – P1
+239,VET/239,Ensemble militaire,,marron,,tenue,1,S510 – P1
+240,VET/240,veste bleu a boutons blancs,,bleu,blanc,veste,1,S510 – P1
+241,VET/241,veste blanche et grise ,,noir,blanc,veste,1,S510 – P1
+242,VET/242,Robe blanche à point noir,,blanc,noir,robe,1,S510 – P1
+243,VET/243,Ensemble costume veste + pantalon bleu,,bleu,gris,tenue,1,S510 – P1
+244,VET/244,veste bleu,,bleu,,veste,1,S510 – P1
+245,VET/245,tenue de prisonnier a rayure noir et blanc,,blanc,noir,tenue,1,S510 – P1
+246,VET/246,Veste bleu et beige ,,bleu,beige,veste,1,S510 – P1
+247,VET/247,Veste bleu,,bleu,,veste,1,S510 – P1
+248,VET/248,Veste à motif noir et blanc,,noir,blanc,veste,1,S510 – P1
+249,VET/249,Veste bleu a boutons gris,,bleu,gris,veste,1,S510 – P1
+250,VET/250,Veste noir à boutons personnalisé ,,noir,or,veste,1,S510 – P1
+251,VET/251,Blouson / Manteau imperméable noir,,noir,,veste,1,S510 – P1
+252,VET/252,Manteau bleu élégant ,,bleu,,veste,1,S510 – P1
+253,VET/253,veste noir et or,,noir,,veste,1,S510 – P1
+254,VET/254,Robe + veste blanche à motif + or,,blanc,rose,tenue,1,S510 – P1
+255,VET/255,Robe + veste à motif rose,,rose,,tenue,1,S510 – P1
+256,VET/256,veste noir,,noir,,veste,1,S510 – P1
+257,VET/257,Veste bleu avec mouchoir,,bleu,noir blanc or,veste,1,S510 – P1
+258,VET/258,Manteau court en fourrure,,marron,,veste,1,S510 – P1
+259,VET/259,Veste noir,,noir,,veste,1,S510 – P1
+260,VET/260,Manteau gris,,gris,,veste,1,S510 – P1
+261,VET/261,Veste grise sans manche,,gris,,veste,1,S510 – P1
+262,VET/262,Veste costume bleu,,bleu,,veste,1,S510 – P1
+263,VET/263,Uniforme bleu avec gros bouton or,,bleu,or,tenue,1,S510 – P1
+264,VET/264,veste noir,,noir,,veste,1,S510 – P1
+265,VET/265,veste costume noir,,noir,,veste,1,S510 – P1
+266,VET/266,Robe noir et blanche + par dessus noir a motif,,noir,blanc,tenue,1,S510 – P1
+267,VET/267,manteau noir ,,noir,,veste,1,S510 – P1
+268,VET/268,Manteau bleu ,,bleu,,veste,1,S510 – P1
+269,VET/269,Haut blanc dentelle noire,,blanc,noir,veste,1,S510 – P1
+270,VET/270,Haut transparent blanc et dorée,,blanc,or,haut,1,S510 – P1
+271,VET/271,tunique rouge uni richard cœur de lion,,rouge,,tunique,12,BMA1
+272,VET/272,tunique rouge avec flèche jaune richard cœur de lion,,rouge,jaune noir,tunique,3,BMA1
+273,VET/273,cape rouge avec lion jaune richard cœur de lion,,rouge,jaune noir,cape,1,BMA1
+274,VET/274,tunique rouge avec lion jaune richard cœur de lion,,rouge,jaune noir,tunique,4,BMA1
+275,VET/275,tunique rouge foncé avec blason français au dos ,,rouge,bleu jaune noir,tunique,1,BMA1
+276,VET/276,tunique vert kaki uni avec col orange manches longues,,vert,orange,tunique,1,BMA1
+277,VET/277,tunique bleu clair uni,,bleu,,tunique,1,BMA1
+278,VET/278,tunique gris uni,,gris,,tunique,2,BMA1
+279,VET/279,tunique gris uni sans manche,,gris,,tunique,8,BMA1
+280,VET/280,tunique bleu foncé uni,,bleu,,tunique,14,BMA1
+281,VET/281,tunique vert kaki uni,,vert,,tunique,3,BMA1
+282,VET/282,tunique bleu uni avec fleur de lys au dos ,,bleu,jaune blanc,tunique,1,BMA1
+283,VET/283,tunique bleu d’eau uni,,bleu,,tunique,3,BMA1
+284,VET/284,tunique bleu turquoise avec croix blanche des templiers,,bleu,,tunique,4,BMA1
+285,VET/285,tunique rouge avec lion jaune richard cœur de lion avec manches longues prestigieux,,rouge,jaune noir,tunique,1,BMA2
+286,VET/286,tunique rouge avec château jaune ,,rouge,jaune noir,tunique,1,BMA2
+287,VET/287,rouge foncé uni,,rouge,,tunique,7,BMA2
+288,VET/288,tunique bleu uni a manches longues,,bleu,,tunique ,1,BMA2
+289,VET/289,cape marron clair ,,marron,blanc,cape,1,BMA2
+290,VET/290,Surcot gris clair ,,gris,,surcot,1,BMA2
+291,VET/291,Surcot gris avec morceaux de tissus villageois,,gris,,surcot,1,BMA2
+292,VET/292,surcot rose villageois ,,rose,,surcot,1,BMA2
+293,VET/293,surcot vert ,,vert,,surcot,1,BMA2
+294,VET/294,haut marron et vert en toile de jute,,marron,vert,haut,5,BMA2
+295,VET/295,haut vert et marron en toile de jute,,vert,marron,haut,4,BMA2
+296,VET/296,haut bleu et marron en toile de jute,,bleu,marron,haut,4,BMA3
+297,VET/297,haut marron avec morceaux de tissus en toile de jute,,marron,,haut,1,BMA3
+298,VET/298,haut marron clair,,marron,,haut,1,BMA3
+299,VET/299,veste violet avec morceaux de tissus ,,violet,,haut,1,BMA3
+300,VET/300,tunique gris avec bordures oranges,,gris,orange,tunique,1,BMA3
+301,VET/301,tunique vert clair avec bordures rouge,,vert,rouge,tunique,1,BMA3
+302,VET/302,tunique orange avec bordures et manches blanc ,,orange,blanc,tunique,2,BMA3
+303,VET/303,tunique orange avec bordures blanc sans manches avec ceinture,,orange,blanc,tunique,1,BMA3
+304,VET/304,tunique blanche avec bordures orange,,blanc,orange,tunique,1,BMA3
+305,VET/305,ensemble tunique rouge avec capuche beige ,,rouge,beige,tunique,1,BMA3
+306,VET/306,surcot marron foncé,,marron,,surcot,1,BMA3
+307,VET/307,haut beige ,,beige,,haut,1,BMA3
+308,VET/308,tunique bleu turquoise avec bordures blanches ,,bleu,blanc,tunique,1,BMA3
+309,VET/309,haut beige avec manches longues,,beige,,haut,1,BMA3
+310,VET/310,haut vert kaki à manches longues,,vert,,haut,1,BMA3
+311,VET/311,haut orange à manches longues,,orange,,haut,1,BMA3
+312,VET/312,tunique orange délavé,,orange,,tunique,1,BMA3
+313,VET/313,veste dorée courte sans manches,,doré,,veste,4,BMA3
+314,VET/314,veste verte brillante courte sans manches,,vert,,veste,1,BMA3
+315,VET/315,veste bleu marine courte sans manches,,bleu,,veste,1,BMA3
+316,VET/316,veste marron courte sans manches,,marron,,veste,1,BMA3
+317,VET/317,pantalon de gendarme bleu marine rayure rouge sur le coté ,,bleu,,pantalon,2,BGEN3
+318,VET/318,veste gendarmerie aviateur bleu marine,,bleu,or,veste,3,BGEN3
+319,VET/319,veste verte de commandant gendarmerie ,,vert,or blanc,veste,1,BGEN3
+320,VET/320,chemise de gendarmerie bleu clair manche courte ,,bleu,,haut,6,BGEN3
+321,VET/321,chemise de gendarmerie bleu clair manche longue,,bleu,,haut,11,BGEN3
+322,VET/322,blouse de cardiologue Mr Rochet avec croix rouge ,,blanc,rouge,veste,1,BCHA5
+323,VET/323,robe nuisette noire à bretelle ,,noir,,robe,1,BRO3
+324,VET/324,chemise taille 6(XXL) vert à carreaux ,,gris,vert marron,haut,1,BCHA5
+325,VET/325,chemise homme violette à rayure ,,violet,bleu noir,haut,1,BCHA5
+326,VET/326,blouse noire ample  ,,noir,,haut,1,BCHA5
+327,VET/327,blouse bleu foncé ample ,,bleu,,haut,1,BCHA5
+328,VET/328,chemise en jeans ,,bleu,noir,haut,1,BCHA5
+329,VET/329,chemise homme xxl blanc à rayures,,blanc,bleu gris,haut,1,BCHA5
+330,VET/330,chemise homme xxl gris à carreaux,,gris,blanc,haut,1,BCHA5
+331,VET/331,petit chemisier jeune femme blanc sans manche,,blanc,,haut,1,BCHA5
+332,VET/332,robe blanche à bretelle et dentelle petite taille avec taches de rouille,,blanc,,robe,4,BTEN1
+333,VET/333,T-shirt sans manche petite fille blanc ,,blanc,,haut,1,BTEN1
+334,VET/334,pantalon paysan gris xxl avec carré cousus ,,gris,vert beige violet,pantalon,1,BPAN4
+335,VET/335,pantalon de costume gris / bleu foncé,,gris,,pantalon,1,BPAN4
+336,VET/336,pantalon de villageois gris foncé,,gris,,pantalon,1,BPAN4
+337,VET/337,pantalon enfant noir ,,noir,,pantalon,1,BPAN4
+338,VET/338,pantalon de costume gris avec élastique ,,gris,,pantalon,1,BPAN4
+339,VET/339,pantalon de villageois blanc crème xxl,,blanc,,pantalon,1,BPAN4
+340,VET/340,pantalon villageois noir et blanc à rayure avec carré de tissus,,noir,gris blanc,pantalon,1,BPAN4
+341,VET/341,pantalon à carreaux jaune marron,,marron,jaune,pantalon,1,BPAN4
+342,VET/342,Bas court gris Prince de Condé,,gris,blanc,pantalon,1,S 509 – P1
+343,VET/343,veste grise homme avec boutons nacrés Prince de Condé,,gris,blanc,veste,1,S 509 – P1
+344,VET/344,Surcot à anneaux bleu velours,,bleu,gris,tenue,1,S 509 – P1
+345,VET/345,Surcot à anneaux vert oie / jaune en tissu ,,vert,gris,tenue,2,S 509 – P1
+346,VET/346,Surcot à anneaux rouge bordeaux en tissu ,,rouge,gris,tenue,2,S 509 – P1
+347,VET/347,Surcot à anneaux bleu clair en tissu ,,bleu,gris,tenue,1,S 509 – P1
+348,VET/348,Molletonné de soldats beige interieur rouge,,beige,marron,haut,2,S 509 – P1
+349,VET/349,Molletonné de soldats exterieur brun interieur rouge,,beige,gris rouge,haut,4,S 509 – P1
+350,VET/350,Surcot à anneaux vert en tissu,,vert,gris,tenue,1,S 509 – P1
+351,VET/351,pantalon bouffant danse musulmane beige rouge vert bleu en voile,,,beige rouge vert bleu,pantalon,5,S 509 – P1
+352,VET/352,robe lègere verte ,,vert,,robe,1,S 509 – P1
+353,VET/353,Sous-robe blanche d’évèque ,,blanc,,robe,1,S 509 – P1
+354,VET/354,robe rouge avec par dessus blanc (robe de religieux),,blanc,rouge,robe,5,S 509 – P1
+355,VET/355,jupe homme blanche avec dégardé orange jaune beige,,blanc,orange beige,jupe,1,S 509 – P1
+356,VET/356,tunique de croisé gris et jaune pour religieux,,gris,jaune,tunique,1,S 509 – P1
+357,VET/357,tunique de croisé marron et jaune pour religieux,,marron,jaune,tunique,1,S 509 – P1
+358,VET/358,tunique de croisé violet et jaune pour religieux,,violet,jaune,tunique,1,S 509 – P1
+359,VET/359,veste bleu et beige solde de la Fronde,,bleu,beige,veste,3,S 509 – P1
+360,VET/360,culotte bleu et beige soldat de la Fronde,,bleu,beige,pantalon,3,S 509 – P1
+361,VET/361,Tenue de diacre,,blanc,beige noir,tenue,1,S 509 – P1
+362,VET/362,veste marron et blanc avec boutons,,marron,blanc,veste,3,S 509 – P1
+363,VET/363,pantalon marron L,,marron,blanc,pantalon,3,S 509 – P1
+364,VET/364,veste marron et blanc en feutre,,marron,blanc,veste,6,S 509 – P1
+365,VET/365,culotte en feutre marron,,marron,blanc,pantalon,4,S 509 – P1
+366,VET/366,culotte marron en tissu et bas beige,,marron,blanc,pantalon,1,S 509 – P1
+367,VET/367,"veste rouge et blanc, fou du roi",,rouge,blanc,veste,5,S 509 – P1
+368,VET/368,"culotte rouge et blanc, fou du roi",,rouge,blanc,pantalon,5,S 509 – P1
+369,VET/369,"culotte jaune et marron, fou du roi",,marron,jaune,pantalon,1,S 509 – P1
+370,VET/370,veste de soldat avec boutons or,,bleu,jaune,veste,1,S 509 – P1
+371,VET/371,pantalon de soldat,,bleu,,pantalon,1,S 509 – P1
+372,VET/372,"culotte marron et bleu clair, fou du roi",,marron,bleu,pantalon,1,S 509 – P1
+373,VET/373,"culotte rouge et rose clair, fou du roi",,rouge,rose,pantalon,1,S 509 – P1
+374,VET/374,Veste noir avec boutons et broderie épaule ,,gris,or blanc,veste,1,S 509 – P1
+375,VET/375,veste bleu avec manches longues blanches,,bleu,blanc,veste,2,S 509 – P1
+376,VET/376,pantalon bleue avec bas blanc,,bleu,blanc,pantalon,2,S 509 – P1
+377,VET/377,pantalon noir avec bas blanc,,noir,blanc,pantalon,1,S 509 – P1
+378,VET/378,veste marron manches longues,,marron,,veste,2,S 509 – P1
+379,VET/379,pantalon marron bas blanc.,,marron,blanc,pantalon,1,S 509 – P1
+380,VET/380,veste bleue avec manches longues ,,bleu,blanc,veste,2,S 509 – P1
+381,VET/381,pantalon bleue ,,bleu,blanc,pantalon,2,S 509 – P1
+382,VET/382,veste bleue/gris/vert avec manches longues,,bleu,blanc,veste,2,S 509 – P1
+383,VET/383,pantalon bleue/gris/vert avec bas blancs,,bleu,blanc,pantalon,2,S 509 – P1
+384,VET/384,veste bleue avec manches longues blanches,,bleu,blanc,veste,1,S 509 – P1
+385,VET/385,pantalons bleu avec bas blanc,,bleu,blanc,pantalon,1,S 509 – P1
+386,VET/386,haut jaune orange avec dessous gris,,orange,blanc,veste,1,S 509 – P2
+387,VET/387,haut rouge,,rouge,,haut,1,S 509 – P2
+388,VET/388,haut vert foncé avec bijou devant et tour de cou noir,,vert,noir or,haut,1,S 509 – P2
+389,VET/389,haut bleu clair avec ceinture et couture rose,,gris,rouge,haut,1,S 509 – P2
+390,VET/390,haut rouge bordeaux avec ceinture ,,rouge,,haut,2,S 509 – P2
+391,VET/391,haut troubadour jaune vert avec rayures rouges et bras froufrou,,jaune,rouge,haut,1,S 509 – P2
+392,VET/392,haut bleu foncé avec ceinture ,,bleu,,haut,1,S 509 – P2
+393,VET/393,haut bleu foncé avec broderies dorées et ceinture,,bleu,or,haut,1,S 509 – P2
+394,VET/394,haut rouge orangé ,,rouge,,haut,1,S 509 – P2
+395,VET/395,haut vert foncé avec ceinture,,vert,,haut,1,S 509 – P2
+396,VET/396,haut jaune doré avec ceinture et bandeau au cou noir,,jaune,noir,haut,1,S 509 – P2
+397,VET/397,haut bleu avec rayures bleu foncé ,,bleu,,haut,1,S 509 – P2
+398,VET/398,haut vert foncé avec bandeau autour du cou jaune et ceinture,,vert,or,haut,1,S 509 – P2
+399,VET/399,jupe jaune longue ,,jaune,,jupe,1,S 509 – P2
+400,VET/400,haut gris poivre ,,gris,,haut,1,S 509 – P2
+401,VET/401,tunique rose homme avec ceinture et double manches et broderies aux coutures  ,,rose,or,tunique,1,S 509 – P2
+402,VET/402,jupe longue marron clair avec elastique ,,marron,,jupe,1,S 509 – P2
+403,VET/403,jupe longue marron foncé avec elastique ,,or,,jupe,1,S 509 – P2
+404,VET/404,tunique jaune homme avec double manches et broderies aux coutures et bijoux ,,jaune,or noir,tunique,1,S 509 – P2
+405,VET/405,tunique verts et blancs homme avec motifs et broderies or ,,vert,jaune,tunique,1,S 509 – P2
+406,VET/406,tunique rouge homme avec broderies beige ,,rouge,blanc,tunique,1,S 509 – P2
+407,VET/407,cape de saint louis bleu avec fourrure et fleurs de lys ,,bleu,blanc jaune marron,cape,1,S 509 – P2
+408,VET/408,tunique beige avec cou marron et cape beige ,,beige,gris marron,tunique,1,S 509 – P2
+410,VET/410,tunique vert foncé homme avec broderies jaune et cape vert et broderie jaune,,vert,or blanc,tunique,1,S 509 – P2
+411,VET/411,tunique jaune homme avec coutures rouge et bijou avec cape rouge et coutures jaune,,jaune,rouge,tunique,1,S 509 – P2
+412,VET/412,tunique rose avec pardessus rouge avec motifs fleurs jaune ,,rose,,tunique,1,S 509 – P2
+413,VET/413,tunique saint louis bleu avec fleur de lys et coutures jaunes ,,bleu,jaune,tunique,1,S 509 – P2
+414,VET/414,tunique beige avec pardessus tunique orange avec motifs fleurs avec cape beige ,,beige,orange,tunique,1,S 509 – P2
+415,VET/415,tunique rouge avec broderie blanche tour de cou et main,,rouge,blanc,tunique,1,S 509 – P2
+416,VET/416,tunique sans manche grise avec blason central,,gris,,tunique,1,S 509 – P2
+417,VET/417,cape grise/violette/blanc polychrome avec bord rouge,,violet,gris blanc,cape,1,S 509 – P2
+418,VET/418,tenue deux pièces tunique rouge et par-dessus blanc avec liserai rouge,,blanc,rouge,tunique,1,S 509 – P2
+419,VET/419,Tunique 2 pièces interieur rouge et par dessus rouge avec motif,,rouge,blanc,tunique,1,S 509 – P2
+420,VET/420,tunique richard cœur de lion sans manche avec cape noir,,noir,jaune rouge,tunique,1,S 509 – P2
+421,VET/421,tunique rouge avec bordsgris,,rouge,gris,tunique,1,S 509 – P2
+422,VET/422,tunique orange double epaisseur avec manches longues et motifs,,orange,,tunique,1,S 509 – P2
+423,VET/423,tunique rouge avec manches double epessaires et broderie sur épaules,,rouge,blanc jaune,tunique,1,S 509 – P2
+424,VET/424,Combinaison  gris avec ceinture ,,gris,,uniforme,1,S 509 – P2
+425,VET/425,jupe double épaisseur avec exrerieur vert et jaune motif,,vert,jaune blanc,jupe,1,S 509 – P2
+426,VET/426,tunique rouge effet « gauffré » / effet relief.,,rouge,,tunique,1,S 509 – P2
+427,VET/427,"Ensemble 3 pièces : jupe, tunique et cape bleue style africain",,bleu,blanc jaune,ensemble,1,S 509 – P2
+428,VET/428,Ensemble 2 pièces : jupe rouge avec tunique verte et motifs floraux blanc.,,vert,blanc rouge,ensemble,1,S 509 – P2
+429,VET/429,robe noire effet velours avec liserai noir,,noir,rouge,robe,1,S 509 – P2
+430,VET/430,peignoir vert/gris/doré,,gris,,tenue,1,S 509 – P2
+431,VET/431,peignoir « chinois » noir avec motifs rouge/bleu/doré,,noir,rouge bleu or,tenue,1,S 509 – P2
+432,VET/432,"culotte rouge foncé et jaune oie, fou du roi",,rouge,jaune,pantalon,1,S 509 – P2
+433,VET/433,veste rouge et trait noir en cuir ,,rouge,noir,veste,1,S 509 – P2
+434,VET/434,pantalon fin beige ,,beige,,pantalon,1,S 509 – P2
+435,VET/435,"pantalon bleu/vert et jeune, fou du roi",,bleu,jaune,pantalon,1,S 509 – P3
+436,VET/436,robe épaisse orange/violette et décolleté rose,,violet,orange rose,robe,1,S 509 – P3
+437,VET/437,robe légère couleur crème  avec bord blanc,,beige,blanc,robe,1,S 509 – P3
+438,VET/438,"robe grise, longues manches col blanc ",,gris,blanc,robe,1,S 509 – P3
+439,VET/439,tunique homme gris vert avec bords marrons/blancs,,gris,blanc marron,tunique,1,S 509 – P3
+440,VET/440,tunique bleue canard et bords blancs,,bleu,blanc,tunique,1,S 509 – P3
+441,VET/441,"robe blanche avec longues blanches et sous manches bleues, bords brodés jaune/violet",,blanc,bleu jaune violet,robe,1,S 509 – P3
+442,VET/442,"robe bleue avec longues manches et sous manches blanches, bords blancs",,bleu,blanc,robe,1,S 509 – P3
+443,VET/443,robe Aliénor jaune et verte ,,jaune,vert,robe,1,S 509 – P3
+444,VET/444,cape Aliénor verte et jaune,,vert,jaune,cape,1,S 509 – P3
+445,VET/445,robe marron même matière que Aliénor et col marron et vert,,marron,vert jaune,robe,1,S 509 – P3
+446,VET/446,robe bordeaux et bords noirs ,,rouge,noir,robe,1,S 509 – P3
+447,VET/447,robe légère verte et bords blancs,,vert,blanc,robe,1,S 509 – P3
+448,VET/448,cape marron et liseré marron clair,,marron,,cape,1,S 509 – P3
+449,VET/449,Veste/robe violette avec ceinture jaune/violette et larges manches et gros bouton d'attache,,violet,jaune,veste,1,S 509 – P3
+450,VET/450,robe légère rose avec sous manches violettes et col violet,,orange,violet,robe,1,S 509 – P3
+451,VET/451,cape violette simple petite bordure brodée ,,violet,,cape,1,S 509 – P3
+452,VET/452,cape rouge avec bordure brodée et attache en bijou,,rouge,blanc gris,cape,1,S 509 – P3
+453,VET/453,robe rouge légère avec bordure rouge brodée x2,,rouge,blanc,robe,1,S 509 – P3
+454,VET/454,jupe violette plissée ,,violet,,jupe,1,S 509 – P3
+455,VET/455,robe multi couche,,blanc,rouge rose,robe,1,S 509 – P3
+456,VET/456,robe rose pâle grande manche bordure rouge,,rose,rouge,robe,1,S 509 – P3
+457,VET/457,robe bleue et blanche rayée bijoux et cape blanche transparente,,bleu,blanc or,robe,1,S 509 – P3
+458,VET/458,robe rouge légère avec bordure jaune brodée ,,rouge,blanc,robe,1,S 509 – P3
+459,VET/459,robe verte kaki dégradé bordure marron et blanc et cape blanche à motifs floraux,,blanc,vert,ensemble,1,S 509 – P3
+460,VET/460,"robe verte pâle avec longues manches et sous manches jaune et verte à motif, tâche rose à l'aisselle gauche",,vert,blanc,robe,1,S 509 – P3
+461,VET/461,robe légère bleue avec col blanc et larges manches,,bleu,blanc,robe,1,S 509 – P3
+462,VET/462,robe dorée avec larges manches et col blanc,,or,blanc,robe,1,S 509 – P3
+463,VET/463,robe bleue marine à motifs avec décolleté bleu clair et ceinture bleue et dorée à fleur,,bleu,or,robe,1,S 509 – P3
+464,VET/464,cape rose avec bordure brodée,,rose,or,cape,1,S 509 – P3
+465,VET/465,jupe jaune longue ,,jaune,,jupe,1,S 509 – P3
+466,VET/466,robe jaune à bordure noire,,jaune,noir,robe,1,S 509 – P3
+467,VET/467,robe crème à bordure noire,,jaune,noir,robe,1,S 509 – P3
+468,VET/468,robe verte et blanche à motifs avec bordure verte  ,,vert,noir,robe,1,S 509 – P3
+469,VET/469,robe verte foncée à longue manche avec col et ceinture verte et blanche à motifs,,vert,blanc,robe,1,S 509 – P3
+470,VET/470,jupe orange droite ,,orange,,jupe,1,S 509 – P3
+471,VET/471,pantalon velours marron velours,,marron,,pantalon,1,BPAN3
+472,VET/472,pantalon femme beige à rayures ,,beige,,pantalon,1,BPAN3
+473,VET/473,pantalon velours marron clair villageois,,marron,,pantalon,1,BPAN3
+474,VET/474,pantalon de costume homme ,,gris,,pantalon,1,BPAN3
+475,VET/475,pantalon de velours noir velours ,,noir,,pantalon,1,BPAN3
+476,VET/476,jeans noir ,,noir,,pantalon,1,BPAN3
+477,VET/477,pantalon noir sale ,,noir,,pantalon,1,BPAN3
+478,VET/478,pantalon villageois marron à rayures ,,marron,,pantalon,1,BPAN3
+479,VET/479,pantalon bleu foncé ,,bleu,,pantalon,1,BPAN3
+480,VET/480,pantalon de costume noir ,,noir,,pantalon,1,BPAN4
+481,VET/481,pantalon de costume homme noir court,,noir,,pantalon,1,BPAN4
+482,VET/482,pantalon de costume noir ,,noir,,pantalon,1,BPAN4
+483,VET/483,pantalon paysan gris  ,,gris,,pantalon,1,BPAN4
+484,VET/484,blouse écolier noir ,,noir,,tenue,8,BTEN2
+485,VET/485,blouse de villageois marchand de vache bleu adulte,,bleu,,tenue,8,BCHA4
+486,VET/486,veston rouge enfant ,,rouge,,veste,1,BTEN2
+487,VET/487,veston sans manche multicolore 1950,,violet,noir,veste,1,BCHA4
+488,VET/488,pull vert kaki laine homme,,vert,,haut,1,BCHA5
+489,VET/489,jupe beige orangée boutons or devant,,beige,or,jupe,1,BJU4
+490,VET/490,chemise blanche sans manche ,,blanc,,haut,1,BCHA5
+491,VET/491,chemise blanche manche courte ,,blanc,,haut,1,BCHA5
+492,VET/492,gilet blanc sans manche ,,blanc,,haut,1,BCHA5
+493,VET/493,gilet blanc sans manche ,,blanc,,haut,1,BTEN2
+494,VET/494,T-shirt noir transparent femme dentelle 1950,,noir,,haut,1,BCHA5
+495,VET/495,haut dorée à paillette disco années 70,,or,,haut,1,BCHA5
+496,VET/496,pull léger à manche longue noire 70,,noir,,haut,1,BCHA5
+497,VET/497,chemise hawaïenne rouge à fleur,,rouge,rose,haut,1,BCHA5
+498,VET/498,haut beige sans manche,,beige,,haut,1,BCHA5
+499,VET/499,haut beige sans manche avec dentelle,,beige,blanc,haut,1,BCHA5
+500,VET/500,chemise légère rouge beige et violet homme ,,rouge,beige violet,haut,1,BCHA5
+501,VET/501,pull à col roulé à carreaux et noir ,,bleu,blanc noir,haut,1,BCHA5
+502,VET/502,chemise noir et blanche à pois et rayures ,,blanc,noir,haut,1,BCHA5
+503,VET/503,T-shirt noir et blanc ,,noir,blanc,haut,1,BCHA5
+504,VET/504,chemise blanche taille S boutons devant,,blanc,,haut,1,BCHA5
+505,VET/505,chemise blanche boutons devant manche courte,,blanc,,haut,1,BCHA5
+506,VET/506,veste blanche froissée,,blanc,,haut,1,BCHA5
+507,VET/507,pull long rouge avec rayures ,,rouge,rose,haut,1,BCHA5
+508,VET/508,chemise blanche à manches longue et points argenté,,blanc,gris,haut,1,BCHA5
+509,VET/509,Chemise noir à manche courte ,,noir,,haut,1,BCHA5
+510,VET/510,chemise blanche à manche longue ,,blanc,,haut,1,BCHA5
+511,VET/511,chemise bleu avec petits carreaux noir manche longue ,,bleu,noir,haut,1,BCHA5
+512,VET/512,T-shirt blanc à manche courtes,,blanc,,haut,1,BCHA5
+513,VET/513,chemise blanche à manche moyennes motif floral,,blanc,,haut,1,BCHA5
+514,VET/514,T-shirt à bretelle ,,blanc,noir,haut,1,BCHA5
+515,VET/515,chemise blanche à dentelle,,blanc,blanc,haut,1,BCHA5
+516,VET/516,chemise longue bleu clair à pois blancs ,,bleu,blanc,haut,1,BCHA5
+517,VET/517,chemise blanche brillante 1950,,blanc,,haut,1,BCHA5
+518,VET/518,chemise blanche taille 42,,blanc,,haut,1,BCHA5
+519,VET/519,chemise à carreaux blanche et noire,,blanc,bleu,haut,1,BCHA5
+520,VET/520,chemise blanche à manche longue ,,blanc,,haut,1,BCHA5
+521,VET/521,chemise de nuit courte à dentelle ,,blanc,,haut,1,BCHA5
+522,VET/522,chemise rose à carreaux avec dentelle ,,rose,blanc,haut,1,BCHA5
+523,VET/523,pyjama beige et bordure noir taille XXL homme 1950 taché rouge,,beige,noir,ensemble,1,BCHA5
+524,VET/524,chemise petite blanche 1950,,blanc,,haut,1,BCHA5
+525,VET/525,jupe légère rouge foncé avec motifs ,,rouge,,jupe,1,BJU4
+526,VET/526,Ensemble 1950 violet et blanc à fleurs ,,violet,blanc,ensemble,1,BCHA5
+527,VET/527,ensemble twist bleu à carreaux et blanc avec nœud cheveux,,bleu,blanc noir,ensemble,1,BCHA5
+528,VET/528,robe très courte noire à manche longue ,,noir,,robe,1,BCHA5
+529,VET/529,haut blanc transparent haut blanc transparent avec motifs fleurs ,,blanc,gris,haut,1,BCHA5
+530,VET/530,chemisier bleu foncé ,,bleu,rouge,haut,1,BCHA5
+531,VET/531,chemise bleu foncé avec fleurs blanches ,,bleu,blanc,haut,1,BCHA5
+532,VET/532,jupe bleu et orange ,,bleu,orange,jupe,1,BJU4
+533,VET/533,jupe plissée noire ,,noir,,jupe,1,BJU4
+534,VET/534,culotte french cancan jaune,,blanc,jaune,autre,1,BCAN3
+535,VET/535,culotte french cancan rouge ,,blanc,rouge,autre,1,BCAN3
+536,VET/536,jupe violette ,,violet,,jupe,1,BMA4
+537,VET/537,pantalon noir et blanc type pirate,,noir,blanc,pantalon,1,BMA4
+538,VET/538,jupe verte foncé,,vert,,jupe,1,BMA4
+539,VET/539,pantalon blanc,,blanc,,pantalon,1,BMA4
+540,VET/540,pantalon patte d’éléphant bleu,,bleu,,pantalon,2,BMA4
+541,VET/541,jupe tablier rose délavé,,rose,,jupe,1,BMA4
+542,VET/542,pantalon patte d’éléphant rose saumon,,rose,,pantalon,1,BMA4
+543,VET/543,pantacourt villageois à rayures jaunes et vertes,,jaune,vert,pantalon,1,BMA4
+544,VET/544,pantalon patte d’éléphant marron,,marron,,pantalon,1,BMA4
+545,VET/545,haut enfant villageois sans manches beige sale,,beige,,haut,1,BTEN1

@@ -1,0 +1,34 @@
+#balabase_logo > img {
+    height: 2.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.2rem;
+    padding-left: 4rem;
+}
+#in_site > a {
+    color: #232323;
+    text-decoration: none;
+    font-family: Poppins,sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    margin-right: 1.8rem;
+}
+#in_site, #out_site {
+    margin-top: 1rem;
+    padding-left: 3rem;
+}
+#header {
+    display: flex;
+    justify-content: space-between;
+}
+#nav_bar {
+    display: flex;
+}
+#out_site > a > img {
+    width: 1rem;
+}
+#out_site > a {
+    margin-right: 1.5rem;
+}
+header {
+    border-bottom: 1px solid lightgray;
+}

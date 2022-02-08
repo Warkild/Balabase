@@ -1,0 +1,82 @@
+#filter {
+    margin-left: 4.4rem;
+    min-width: 300px;
+    max-width: 300px;
+    padding-top: 3.5rem;
+}
+#recherche_title {
+    font-family: Poppins,sans-serif;
+    font-weight: 700;
+    background-color: #333740;
+    color: white;
+}
+#recherche_title > h1 {
+    margin-left: 4.4rem;
+    font-size: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+/** AFFICHAGE TUILES **/
+#search {
+    display: flex;
+}
+#search_resultats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 3.5rem;
+}
+.divGeneral > img {
+    width: 100%;
+}
+.divGeneral {
+    width: 14.5%;
+    border: 1px solid rgb(233, 233, 233);
+    box-shadow: 0 0 1rem rgba(0,0,0,0.15);
+    margin-bottom: 18px;
+}
+.type {
+    text-transform: capitalize;
+    font-family: Poppins,sans-serif;
+    font-size: 0.8rem;
+    color:grey;
+    text-align: center;
+    padding-bottom: 0.4rem;
+}
+.divGeneral:hover {
+    width: 14.5%;
+    border: 1px solid #76BBCB;
+    margin-bottom: 18px;
+    transition: 0.7s;
+}
+.divGeneral:hover > img {
+    filter: grayscale(100%);
+    transition: 0.7s;
+}
+.divGeneral:hover > .divPlus {
+    opacity: 100;
+    transition: 0.7s;
+}
+.divPlus {
+    position: relative;
+    top: -230px;
+    font-size: 100px;
+    font-weight: 900;
+    font-family: 'Chango', cursive;
+    text-align: center;
+    opacity: 0;
+    color:#76BBCB
+}
+.divInfos {
+    margin-top: -90px;
+}
+.titre {
+    font-family: Roboto,sans-serif;
+    font-weight: 500 !important;
+    color:#232323;
+    font-size: 0.9rem;
+    text-align: center;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+    padding-bottom: 0.8rem;
+}
